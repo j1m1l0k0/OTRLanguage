@@ -1,0 +1,1183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OTRLanguage>
+  <LangUI langConstant="description" langTranslation="Português Brasileiro" langInternalDesc="" />
+  <LangUI langConstant="name" langTranslation="Português Brasileiro" langInternalDesc="" />
+  <LangUI langConstant="flagTexture" langTranslation="flag_PTBR.jpg" langInternalDesc="" />
+  <LangUI langConstant="carComputer_text_nothing" langTranslation="" langInternalDesc="" />
+  <LangUI langConstant="carComputer_text_switchToNeutral" langTranslation="mudar para Neutro" langInternalDesc="" />
+  <LangUI langConstant="menuMain_btn_NewGame" langTranslation="Novo Jogo" langInternalDesc="" />
+  <LangUI langConstant="menuMain_btn_LoadGame" langTranslation="Carregar Jogo" langInternalDesc="" />
+  <LangUI langConstant="menuMain_btn_Options" langTranslation="Opções" langInternalDesc="" />
+  <LangUI langConstant="menuMain_btn_Roadmap" langTranslation="Novidades" langInternalDesc="Novidade nas atualizações do On The Road" />
+  <LangUI langConstant="menuMain_btn_Credits" langTranslation="Créditos" langInternalDesc="" />
+  <LangUI langConstant="menuMain_btn_SteamWorkshop_Overview" langTranslation="Oficina Steam" langInternalDesc="" />
+  <LangUI langConstant="menuMain_btn_Quit" langTranslation="Sair" langInternalDesc="" />
+  <LangUI langConstant="menuMain_text_ChangeLog_Caption" langTranslation="Log de alterações" langInternalDesc="" />
+  <LangUI langConstant="menuMain_text_ChangeLog_Message" langTranslation="Jogabilidade:&#xD;&#xA;- Chassis de caixa rígida TGX 6x2 adicionado&#xD;&#xA;- Chassi rígido de caixa Scania R 6x2&#xD;&#xA;- eixo traseiro direcionado para chassis 6x2&#xD;&#xA;&#xD;&#xA;Gráficos:&#xD;&#xA;- novas imagens nos menus dos veículos&#xD;&#xA;- proporções de fundo worldmap retrabalhadas&#xD;&#xA;- adicionada a previsão da estrada para as próximas cidades Frankfurt, Stuttgart e Leipzig para o worldmap&#xD;&#xA;&#xD;&#xA;Conserta:&#xD;&#xA;- removido objetos desnecessários do TGX rígido&#xD;&#xA;- fixou o material leve do reboque da barra de acoplamento&#xD;&#xA;- consertou outro prédio em pé perto da estrada em Duisburg&#xD;&#xA;- mau comportamento dos diversos eixos dos reboques&#xD;&#xA;- removeu a habilidade do jogador de cutucar o caminhão depois de sair" langInternalDesc="" />
+  <LangUI langConstant="menuMain_text_ChangeLog_DoNotShowAgain" langTranslation="Não mostre esta mensagem novamente" langInternalDesc="" />
+  <LangUI langConstant="menuMain_btn_ChangeLog_Close" langTranslation="Close" langInternalDesc="" />
+  <LangUI langConstant="menuCredits_text_Title" langTranslation="CRÉDITOS" langInternalDesc="" />
+  <LangUI langConstant="menuCredits_text_SubTitle_toxtronyx" langTranslation="Toxtronyx Interactive" langInternalDesc="" />
+  <LangUI langConstant="menuCredits_text_SubTitle_additional" langTranslation="Desenvolvedores Adicionais" langInternalDesc="" />
+  <LangUI langConstant="menuCredits_text_Hint" langTranslation="INFORMAÇÃO&#xD;&#xA;&#xD;&#xA;Estas são todas as pessoas incríveis e trabalhadoras que deram vida a este jogo." langInternalDesc="" />
+  <LangUI langConstant="menuCredits_btn_Close" langTranslation="Fechar" langInternalDesc="" />
+  <LangUI langConstant="menuRoadmap_text_Title" langTranslation="Novidades" langInternalDesc="" />
+  <LangUI langConstant="menuRoadmap_text_Hint" langTranslation="DICA&#xD;&#xA;&#xD;&#xA;Toda vez que implementamos algo novo, você pode ler sobre o que mudou nessa lista, além do que está planejado para ser implementado em versões futuras." langInternalDesc="" />
+  <LangUI langConstant="menuRoadmap_btn_Close" langTranslation="Fechar" langInternalDesc="" />
+  <LangUI langConstant="menuRoadmap_btn_Previous" langTranslation="Anterior" langInternalDesc="" />
+  <LangUI langConstant="menuRoadmap_btn_Next" langTranslation="Próximo" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesLoad_text_Title" langTranslation="Carregar perfil" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesLoad_btn_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesLoad_btn_Load" langTranslation="Carregar" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesLoad_btn_Delete" langTranslation="Excluir" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesLoad_text_Hint" langTranslation="DICA&#xD;&#xA;&#xD;&#xA;Você pode carregar ou excluir seu perfil." langInternalDesc="" />
+  <LangUI langConstant="menuProfilesLoad_text_Company" langTranslation="Empresa" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesLoad_text_Name" langTranslation="Nome" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesLoad_text_Headquarter" langTranslation="Sede" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesLoad_text_Time" langTranslation="Tempo" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesLoad_text_Credit" langTranslation="Crédito" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_Title" langTranslation="Criar perfil" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_Playername" langTranslation="Nome do jogador" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_Companyname" langTranslation="Nome da empresa" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_Headquarter" langTranslation="Sede" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_TruckBrand" langTranslation="Marca do caminhão" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_TruckBrand_MAN" langTranslation="Marca MAN" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_TruckBrand_Scania" langTranslation="Marca Scania" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_PlayerImage" langTranslation="Jogador" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_CompanyImage" langTranslation="Companhia" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_BasecolorR" langTranslation="Vermelho" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_BasecolorG" langTranslation="Verde" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_BasecolorB" langTranslation="Azul" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_BasecolorH" langTranslation="Brilho" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_Accept" langTranslation="Aceitar" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangUI langConstant="menuProfilesCreate_text_Hint" langTranslation="DICA&#xD;&#xA;&#xD;&#xA;Crie seu novo perfil de jogo" langInternalDesc="" />
+  <LangUI langConstant="menuIngame_btn_Resume" langTranslation="Sumário" langInternalDesc="" />
+  <LangUI langConstant="menuIngame_btn_Company" langTranslation="Empresa" langInternalDesc="" />
+  <LangUI langConstant="menuIngame_btn_QuickTips" langTranslation="Dicas rápidas" langInternalDesc="" />
+  <LangUI langConstant="menuIngame_btn_Options" langTranslation="Opções" langInternalDesc="" />
+  <LangUI langConstant="menuIngame_btn_Quit" langTranslation="Sair" langInternalDesc="" />
+  <LangUI langConstant="menuIngame_text_Playername" langTranslation="Nome do jogador" langInternalDesc="" />
+  <LangUI langConstant="menuIngame_text_Companyname" langTranslation="Nome da empresa" langInternalDesc="" />
+  <LangUI langConstant="menuIngame_text_Reputation" langTranslation="Reputação" langInternalDesc="" />
+  <LangUI langConstant="menuIngame_text_Capital" langTranslation="Capital" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_Title" langTranslation="Visão geral" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_btn_Overview" langTranslation="Visão geral" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_btn_Logistics" langTranslation="Logística" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_btn_DeleteMail" langTranslation="Excluir email" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_Summary_Caption" langTranslation="Resumo" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_Summary_VehiclesCaption" langTranslation="Veículos" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_Summary_TrailerCaption" langTranslation="Reboque" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_Summary_EmployeesCaption" langTranslation="Funcionários" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_Summary_LiquidityCaption" langTranslation="Liquidez" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_Summary_Liquidity_ValueName" langTranslation="Capital" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_Summary_CreditlineCaption" langTranslation="Linha de crédito" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_ProfileSettings_CompanyCaption" langTranslation="Empresa" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_ProfileSettings_OwnerCaption" langTranslation="Proprietário / Proprietária" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_ProfileSettings_LocationCaption" langTranslation="Localização" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_Title" langTranslation="Logística" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_btn_Overview" langTranslation="Visão geral" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_btn_Logistics" langTranslation="Logística" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_btn_AcceptedAssignment_Pickup" langTranslation="Pegar" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_btn_AcceptedAssignment_Delivery" langTranslation="Entrega" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_btn_AcceptedAssignment_Previous" langTranslation="Anterior" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_btn_AcceptedAssignment_Next" langTranslation="Próximo" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_AcceptedAssignment_Title" langTranslation="ROTA ATUAL" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_btn_AvailableAssignment_Previous" langTranslation="Anterior" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_btn_AvailableAssignment_Next" langTranslation="Próximo" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_AvailableAssignment_Title" langTranslation="ATRIBUIÇÕES DISPONÍVEIS" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_Warning_SelectedDriverHasNoTruck" langTranslation="Motorista selecionado não tem caminhão" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_Warning_CompanyHasNoAvailalableAssignments" langTranslation="A Empresa não tem atribuições disponíveis" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_Warning_SemiTruckSelectedButNoTrailer" langTranslation="Caminhão semi selecionado, mas nenhum trailer" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_text_Title" langTranslation="Empregado" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_btn_Overview" langTranslation="Visão geral" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_btn_Logistics" langTranslation="Logística" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_text_ListAvailableEmployees_Title" langTranslation="Empregados Disponíveis" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_btn_ListAvailableEmployees_Fire" langTranslation="Empregado de Fogo" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_btn_ListAvailableEmployees_GetDriverLicence" langTranslation="Obter permissão para dirigir" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_btn_ListAvailableEmployees_AvailableSlot" langTranslation="Slot disponível" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_text_ListHireEmployees_Title" langTranslation="Contratar Empregado" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_btn_ListHireEmployees_Hire" langTranslation="Contratar" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_btn_ListHireEmployees_Back" langTranslation="Voltar" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_text_Title" langTranslation="Veículos" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_Overview" langTranslation="Visão geral" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_Logistics" langTranslation="Logística" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_TitleTrucks" langTranslation="Caminhões" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_TitleTrailer" langTranslation="Reboque" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_ChangeTrailer" langTranslation="Mudar Reboque" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_ChangeDriver" langTranslation="Mudar Motorista" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_Customize" langTranslation="Customizar" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_Sell" langTranslation="Vender" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_AvailableSlot" langTranslation="Slot disponível" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrailerOwn_TitleTrucks" langTranslation="Caminhões" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrailerOwn_TitleTrailer" langTranslation="Reboque" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrailerOwn_ChangeTrailer" langTranslation="Mudar Reboque" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrailerOwn_ChangeDriver" langTranslation="Mudar Motorista" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrailerOwn_Customize" langTranslation="Customizar" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrailerOwn_Sell" langTranslation="Vender" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrailerOwn_AvailableSlot" langTranslation="Espaço disponível" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_text_ListTrucksBuyable_Title" langTranslation="Compre um desses caminhões" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksBuyable_Buy" langTranslation="Comprar" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksBuyable_Back" langTranslation="Voltar" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_text_ListTrailerBuyable_Title" langTranslation="Compre um desses reboques" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrailerBuyable_Buy" langTranslation="Comprar" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListTrailerBuyable_Back" langTranslation="Voltar" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_text_ListChangeTrailer_Title" langTranslation="Troque o reboque do caminhão selecionado" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListChangeTrailer_Select" langTranslation="Selecione" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListChangeTrailer_Back" langTranslation="Voltar" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_text_ListChangeDriver_Title" langTranslation="Mudar o driver para o caminhão selecionado" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListChangeDriver_Select" langTranslation="Selecione" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListChangeDriver_Back" langTranslation="Voltar" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_text_ListRepaints_Title" langTranslation="Lista de pinturas" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListRepaints_UpdateRepaint" langTranslation="Atualizar nova pintura" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_ListRepaints_Back" langTranslation="Voltar" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_WorkshopUpload" langTranslation="Enviar para Oficina Steam" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_btn_WorkshopBrowser" langTranslation="Navegação na Oficina Steam" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_text_Warning_PlayerNeedsAlwaysAVehicle" langTranslation="Os jogadores precisam sempre de um veículo!" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_Title" langTranslation="Finanças" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_btn_Overview" langTranslation="Visão geral" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_btn_Logistics" langTranslation="Logística" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_Title" langTranslation="Jogo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_Language" langTranslation="Idioma" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_showTrigger" langTranslation="Mostrar gatilhos" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_showTriggerYes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_showTriggerNo" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_showTutorial" langTranslation="Mostrar tutoriais" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_showTutorialYes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_showTutorialNo" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_showWarning" langTranslation="Mostrar avisos" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_showWarningYes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_showWarningNo" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_Accept" langTranslation="Aceitar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Game_text_Hint" langTranslation="DICA&#xD;&#xA;&#xD;&#xA;Altere o idioma que você deseja" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Title" langTranslation="Dispositivo de Entrada" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Page0Title" langTranslation="Geral" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Page1Title" langTranslation="Caminhão primário" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Page2Title" langTranslation="Luzes do caminhão" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Page3Title" langTranslation="Funções secundárias do caminhão" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Page4Title" langTranslation="Manutenção de caminhões" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Interact_Name" langTranslation="interagir (fixo)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Interact_Value" langTranslation="Botão esquerdo do mouse (fixo)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_ChangeView_Name" langTranslation="Alterar câmera (fixa)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_ChangeView_Value" langTranslation="F2 (fixo)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_DisableWheel_Name" langTranslation="Esconder Volante (fixo)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_DisableWheel_Value" langTranslation="F3 (fixo)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Zoom_Name" langTranslation="Zoom externo da Câmera (fixo)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Zoom_Value" langTranslation="Roda do mouse (fixo)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckThrottle" langTranslation="Acelerador" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckBrake" langTranslation="Freio" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckTurnLeft" langTranslation="Vire a esquerda" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckTurnRight" langTranslation="Vire à direita" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckBlinkerLeft" langTranslation="Seta Esquerda" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckBlinkerRight" langTranslation="Seta Direita" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckWarnblink" langTranslation="Aviso de Perigo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckFahrbereichUp" langTranslation="Passar Marcha" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckFahrbereichDown" langTranslation="Diminuir Marcha" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckFahrbereichRetarder" langTranslation="Ativar retardador" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckFahrbereichRetarderDown" langTranslation="Retarder para baixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckFahrbereichRetarderUp" langTranslation="Retarder para cima" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckHandbremse" langTranslation="Freio de mão" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckHupe" langTranslation="Buzina" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckHupeUmschalter" langTranslation="Trocar a buzina" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckLichttest" langTranslation="Mais leve" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckNebelscheinwerferVor" langTranslation="Luz de neblina" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckNebelscheinwerferZurueck" langTranslation="Desligar luz de neblina" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckScheinwerferVor" langTranslation="Farol alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckScheinwerferZurueck" langTranslation="Farol baixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckScheinwerferLichthupe" langTranslation="Piscar luz alta" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckSitzhoeheHoch" langTranslation="Subir assento" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckSitzhoeheRunter" langTranslation="Descer assento" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckSitzhoeheVor" langTranslation="Assento para frente" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckSitzhoeheZurueck" langTranslation="Assento para trás" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckZuendungVor" langTranslation="Ligar motor" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckZuendungZurueck" langTranslation="Desligar motor" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckReset" langTranslation="Redefinir Caminhão" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckCockpitCamRotateLeft" langTranslation="Girar câmera para esquerda" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckCockpitCamRotateRight" langTranslation="Girar câmera para direita" langInternalDesc="Girar a camera para direita dentro do caminhão ladp direito" />
+  <LangUI langConstant="menuOptions_Input_text_TruckCockpitCamRotateUp" langTranslation="Girar câmera para cima" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckCockpitCamRotateDown" langTranslation="Girar câmera para baixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckWiperUp" langTranslation="Limpador de para-brisa mais rápido" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckWiperDown" langTranslation="Limpador de para-brisa mais lento (desligar)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckCruiseControl" langTranslation="Controle de cruzeiro" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckDriverMoveForward" langTranslation="Caminhar para frente" langInternalDesc="Motorista caminha para frente" />
+  <LangUI langConstant="menuOptions_Input_text_TruckDriverMoveBackward" langTranslation="Caminhar para trás" langInternalDesc="Motorista caminha para trás" />
+  <LangUI langConstant="menuOptions_Input_text_TruckDriverStepLeft" langTranslation="Caminhar para esquerda" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckDriverStepRight" langTranslation="Caminhar para direita" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckDriverTurnUp" langTranslation="Olhar para cima" langInternalDesc="O Motorista olha para cima" />
+  <LangUI langConstant="menuOptions_Input_text_TruckDriverTurnDown" langTranslation="Olhar para baixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckDriverTurnLeft" langTranslation="Olhar para esquerda" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_TruckDriverTurnRight" langTranslation="Olhar para direita" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Accept" langTranslation="Aceitar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Previous" langTranslation="Anterior" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Next" langTranslation="Próximo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Reset" langTranslation="Restabelecer" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_yes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_no" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_add" langTranslation="Adicionar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_replace" langTranslation="Substituir" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_remove" langTranslation="Remover" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_none" langTranslation="Nenhum" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_okay" langTranslation="OK" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_done" langTranslation="Feito" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_default" langTranslation="Padrão" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_assignControllerWindowTitle" langTranslation="Escolher Controle" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_assignControllerWindowMessage" langTranslation="Pressione qualquer botão ou mova um eixo no controlador que você gostaria de usar." langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_controllerAssignmentConflictWindowTitle" langTranslation="Atribuir Controle" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_elementAssignmentPrePollingWindowMessage" langTranslation="Primeiro, centralize ou zere todos os paus e eixos e pressione qualquer botão ou espere o cronômetro terminar." langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_elementAssignmentConflictWindowMessage" langTranslation="{0} já está atribuído a {1}. Você deseja atribuir este controle a {2}?" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_mouseAssignmentConflictWindowTitle" langTranslation="Atribuir mouse" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_calibrateControllerWindowTitle" langTranslation="Calibrar Controle" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_calibrateAxisStep1WindowTitle" langTranslation="Calibrar Zero" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_calibrateAxisStep2WindowTitle" langTranslation="Calibrar Faixa" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_inputBehaviorSettingsWindowTitle" langTranslation="Configurações de sensibilidade" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_restoreDefaultsWindowTitle" langTranslation="Restaurar padrões" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_actionColumnLabel" langTranslation="Ações" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_keyboardColumnLabel" langTranslation="Teclado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_mouseColumnLabel" langTranslation="Mouse" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_controllerColumnLabel" langTranslation="Controle" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_removeControllerButtonLabel" langTranslation="Remover" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_calibrateControllerButtonLabel" langTranslation="Calibrar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_assignControllerButtonLabel" langTranslation="Atribuir Controle" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_inputBehaviorSettingsButtonLabel" langTranslation="Sensibilidade" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_doneButtonLabel" langTranslation="Feito" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_restoreDefaultsButtonLabel" langTranslation="Restaurar padrões" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_controllerSettingsGroupLabel" langTranslation="Controle:" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_playersGroupLabel" langTranslation="Jogadores:" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_assignedControllersGroupLabel" langTranslation="Atribuir Controle:" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_settingsGroupLabel" langTranslation="Configurações:" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_mapCategoriesGroupLabel" langTranslation="Categorias:" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_calibrateWindow_deadZoneSliderLabel" langTranslation="Zona morta:" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_calibrateWindow_zeroSliderLabel" langTranslation="Zero:" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_calibrateWindow_sensitivitySliderLabel" langTranslation="Sensibilidade:" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_calibrateWindow_invertToggleLabel" langTranslation="Invertido" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_RewiredConstant_calibrateWindow_calibrateButtonLabel" langTranslation="Calibrar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Audio_text_Title" langTranslation="Áudio" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Audio_text_MasterVolume" langTranslation="Volume Principal" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Audio_text_Volume_VCA_Ambient" langTranslation="Volume ambiente" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Audio_text_Volume_VCA_AI" langTranslation="Volume do IA" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Audio_text_Volume_VCA_Truck" langTranslation="Volume do caminhão" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Audio_text_Accept" langTranslation="Aceitar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Audio_text_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Audio_text_Hint" langTranslation="DICA&#xD;&#xA;&#xD;&#xA;Alterar volumes separadamente" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_Title" langTranslation="Gráficos" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_Resolution" langTranslation="Resolução" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_VSync" langTranslation="Sincronismo Vertical(VSync)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_VSync_disabled" langTranslation="Desativado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_VSync_enabledFull" langTranslation="Ativado (60FPS)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_VSync_enabledHalf" langTranslation="Ativado (30FPS)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_Fullscreen" langTranslation="Tela Cheia" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_FullscreenYes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_FullscreenNo" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_AnisotropicFiltering" langTranslation="Filtragem de textura anisotrópica" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_AnisotropicFiltering_disabled" langTranslation="Desativado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_AnisotropicFiltering_enabled" langTranslation="Ativado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_MasterTextureLimit" langTranslation="Qualidade da textura" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_MasterTextureLimit_VeryHigh" langTranslation="Muito Alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_MasterTextureLimit_High" langTranslation="Alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_MasterTextureLimit_Middle" langTranslation="Médio" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_MasterTextureLimit_Low" langTranslation="Baixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_Shadows" langTranslation="Tipo de sombra" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_Shadows_Disabled" langTranslation="Desativado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_Shadows_Hard" langTranslation="Sombras duras" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_Shadows_Soft" langTranslation="Sombras suaves" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ShadowResolution" langTranslation="Qualidade da sombra" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ShadowResolution_Low" langTranslation="Baixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ShadowResolution_Middle" langTranslation="Médio" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ShadowResolution_High" langTranslation="Alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ShadowResolution_VeryHigh" langTranslation="Muito Alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ShadowDistance" langTranslation="Distância da sombra" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ShadowDistance_Low" langTranslation="Baixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ShadowDistance_Middle" langTranslation="Médio" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ShadowDistance_High" langTranslation="Alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ShadowDistance_VeryHigh" langTranslation="Muito Alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_LODBias" langTranslation="Qualidade do objeto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_LODBias_Low" langTranslation="Baixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_LODBias_Middle" langTranslation="Médio" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_LODBias_High" langTranslation="Alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_LODBias_VeryHigh" langTranslation="Muito Alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ReflectionUpdate" langTranslation="Atualização de Reflexão" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ReflectionUpdate_Low" langTranslation="Baixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ReflectionUpdate_High" langTranslation="Alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ReflectionQuality" langTranslation="Qualidade de Reflexão" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ReflectionQuality_Low" langTranslation="Baixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ReflectionQuality_Medium" langTranslation="Médio" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ReflectionQuality_High" langTranslation="Alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_Brightness" langTranslation="Brilho" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_GrassDensity" langTranslation="Densidade de grama" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_GrassDensity_Off" langTranslation="Desligado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_GrassDensity_Low" langTranslation="Baixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_GrassDensity_Medium" langTranslation="Médio" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_GrassDensity_High" langTranslation="Alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_LightDetail" langTranslation="Fontes de luz" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_LightDetail_Low" langTranslation="Baixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_LightDetail_Medium" langTranslation="Médio" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_LightDetail_High" langTranslation="Alto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_FOVCamDriver" langTranslation="Visão do motorista" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_FOVCamCockpit" langTranslation="Visão da cabine" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_FOVCamOrbit" langTranslation="Visão da câmera" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_autoExposure" langTranslation="Exposição automática" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_autoExposure_Yes" langTranslation="Ligado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_autoExposure_No" langTranslation="Desligado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_vignette" langTranslation="Efeito Vignette" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_vignette_Yes" langTranslation="Ligado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_vignette_No" langTranslation="Desligado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_bloom" langTranslation="Efeito Bloom" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_bloom_Yes" langTranslation="Ligado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_bloom_No" langTranslation="Desligado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_farClipPlane" langTranslation="Distância da Visão" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_farClipPlane_Short" langTranslation="Curto" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_farClipPlane_Middle" langTranslation="Médio" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_farClipPlane_Far" langTranslation="Longe" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_antiAliasing" langTranslation="Antialiasing" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_antiAliasing_Off" langTranslation="Desligado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_antiAliasing_SMAA" langTranslation="SMAA" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_antiAliasing_TAA" langTranslation="TAA" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_volumetricLight" langTranslation="Luz Volumétrica" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_volumetricLight_Yes" langTranslation="Ligado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_volumetricLight_No" langTranslation="Desligado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ambientOcclusion" langTranslation="Oclusão de ambiente" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ambientOcclusion_Yes" langTranslation="Ligado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_ambientOcclusion_No" langTranslation="Desligado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_Accept" langTranslation="Aceitar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_Hint" langTranslation="Aceitar alterações" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_Title" langTranslation="Configurações do Controle" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_Title_Steering" langTranslation="Direção" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_Title_Throttle" langTranslation="Acelerador" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_Title_Brake" langTranslation="Freio" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_Title_SteerSettings" langTranslation="Configurações de direção" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_Title_FFB" langTranslation="Feedback de força" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_steeringDevice" langTranslation="Dispositivo de direção" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_steeringDevice_Keyboard" langTranslation="Teclado" langInternalDesc="Configuração para uso do teclado" />
+  <LangUI langConstant="menuOptions_Controller_text_steeringDevice_Gamepad" langTranslation="Controle" langInternalDesc="Configuração para uso do controle" />
+  <LangUI langConstant="menuOptions_Controller_text_steeringDevice_Wheel" langTranslation="Volante" langInternalDesc="Configuração para uso do volante" />
+  <LangUI langConstant="menuOptions_Controller_text_wheelEnabled" langTranslation="Usar como volante" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_wheelEnabled_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_wheelEnabled_No" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_useThrottleInvertAxisPolarity" langTranslation="Polaridade invertida do eixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_useThrottleInvertAxisPolarity_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_useThrottleInvertAxisPolarity_No" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_useThrottleRemap" langTranslation="Remapear" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_useThrottleRemap_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_useThrottleRemap_No" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_useBrakeInvertAxisPolarity" langTranslation="Polaridade invertida do eixo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_useBrakeInvertAxisPolarity_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_useBrakeInvertAxisPolarity_No" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_useBrakeRemap" langTranslation="Remapear" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_useBrakeRemap_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_useBrakeRemap_No" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_steerRange" langTranslation="Faixa de direção" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_deadZone_Steering" langTranslation="Zona Morta" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_deadZone_Throttle" langTranslation="Zona Morta" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_deadZone_Brake" langTranslation="Zona Morta" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_steeringSpeed" langTranslation="Velocidade de direção" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_steeringReleaseSpeed" langTranslation="Velocidade do volante" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_steerDamping" langTranslation="Amortecimento (Volante)" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_automaticSteerReleaseAtForward" langTranslation="Auto acelerador" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_automaticSteerReleaseAtForward_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_automaticSteerReleaseAtForward_No" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_automaticSteerReleaseAtReverse" langTranslation="Reversão automática" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_automaticSteerReleaseAtReverse_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_automaticSteerReleaseAtReverse_No" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_ffbEnabled" langTranslation="Feedback de força ativo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_ffbEnabled_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_ffbEnabled_No" langTranslation="Não" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_ffbConstantForce" langTranslation="Força Constante" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_ffbEffectStrength" langTranslation="Força do efeito" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_pageKeyboard" langTranslation="Teclado" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_pageDevice0" langTranslation="Dispositivo #0" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_pageDevice1" langTranslation="Dispositivo #1" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_pageDevice2" langTranslation="Dispositivo #2" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_setDefaultValues" langTranslation="definir valores padrão" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_Accept" langTranslation="Aceitar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Controller_text_Hint" langTranslation="DICA&#xD;&#xA;&#xD;&#xA;Ajuste a dificuldade como preferir, ativando os recursos de orientação separadamente." langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_PressAnyKey" langTranslation="Pressione uma tecla ou mova um eixo" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_SelectedAction" langTranslation="Ação selecionada" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckThrottle" langTranslation="Acelerador" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckBrake" langTranslation="Freio" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckTurnLeft" langTranslation="Vire a esquerda" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckTurnRight" langTranslation="Vire à direita" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckBlinkerLeft" langTranslation="Indicador de seta esquerdo" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckBlinkerRight" langTranslation="Indicador de seta direito" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckWarnblink" langTranslation="Pisca Alerta" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckFahrbereichUp" langTranslation="Subir marcha" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckFahrbereichDown" langTranslation="Reduzir marcha" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckFahrbereichRetarder" langTranslation="Ativar Retarder" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckFahrbereichRetarderDown" langTranslation="Desacelerar Retarder" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckFahrbereichRetarderUp" langTranslation="Acelerar Retarder" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckHandbremse" langTranslation="Freio de mão" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckHupe" langTranslation="Buzina" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckHupeUmschalter" langTranslation="Trocar buzina" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckLichttest" langTranslation="Teste de luz" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckNebelscheinwerferVor" langTranslation="Ligar luzes de neblina" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckNebelscheinwerferZurueck" langTranslation="Desligar luzes de neblina" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckScheinwerferVor" langTranslation="Ligar as luzes" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckScheinwerferZurueck" langTranslation="Desligar as luzes" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckScheinwerferLichthupe" langTranslation="Sinal luminoso" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckSitzhoeheHoch" langTranslation="Subir assento" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckSitzhoeheRunter" langTranslation="Descer assento" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckSitzhoeheVor" langTranslation="Assento para a frente" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckSitzhoeheZurueck" langTranslation="Assento para trás" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TuckZuendungVor" langTranslation="Ligar motor" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckZuendungZurueck" langTranslation="Desligar motor" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckReset" langTranslation="Redefinir Caminhão" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckDriverMoveForward" langTranslation="Caminhar em frente" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckDriverMoveBackward" langTranslation="Caminhar para trás" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckDriverStepLeft" langTranslation="Caminhar para a esquerda" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckDriverStepRight" langTranslation="Caminhar para a direita" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckDriverTurnUp" langTranslation="Olhar para cima" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckDriverTurnDown" langTranslation="Olhar para baixo" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckDriverTurnLeft" langTranslation="Olhar para esquerda" langInternalDesc="" />
+  <LangUI langConstant="menuSetKeybinding_text_TruckDriverTurnRight" langTranslation="Olhar para direita" langInternalDesc="" />
+  <LangUI langConstant="menuVirtualKeyboard_text_Title" langTranslation="TECLADO ( Texto Inserido )" langInternalDesc="" />
+  <LangUI langConstant="menuVirtualKeyboard_btn_Accept" langTranslation="Aceitar" langInternalDesc="" />
+  <LangUI langConstant="menuVirtualKeyboard_btn_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangUI langConstant="menuVirtualKeyboard_btn_Whitespace" langTranslation="Whitespace" langInternalDesc="" />
+  <LangUI langConstant="menuVirtualKeyboard_btn_Delete" langTranslation="Delete" langInternalDesc="" />
+  <LangUI langConstant="menuVirtualKeyboard_btn_Caps" langTranslation="CapsLock" langInternalDesc="" />
+  <LangUI langConstant="menuVirtualKeyboard_text_Hint" langTranslation="DICA&#xD;&#xA;&#xD;&#xA;Personalize as teclas do jogo." langInternalDesc="" />
+  <LangUI langConstant="menuSelectionHeadquarter_text_Title" langTranslation="Selecionar Sede" langInternalDesc="" />
+  <LangUI langConstant="menuSelectionHeadquarter_btn_Previous" langTranslation="Anterior" langInternalDesc="" />
+  <LangUI langConstant="menuSelectionHeadquarter_btn_Next" langTranslation="Próximo" langInternalDesc="" />
+  <LangUI langConstant="menuHireDriver_text_Title" langTranslation="Contratar Motorista" langInternalDesc="" />
+  <LangUI langConstant="menuHireDriver_text_Drivername" langTranslation="Nome do Motorista" langInternalDesc="" />
+  <LangUI langConstant="menuHireDriver_btn_Accept" langTranslation="Aceitar" langInternalDesc="" />
+  <LangUI langConstant="menuHireDriver_btn_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangUI langConstant="menuGetDriverLicence_text_Title" langTranslation="Obter permissão para dirigir" langInternalDesc="" />
+  <LangUI langConstant="menuGetDriverLicence_text_Title_DriverLicence" langTranslation="Permissão para dirigir" langInternalDesc="" />
+  <LangUI langConstant="menuGetDriverLicence_btn_Back" langTranslation="Voltar" langInternalDesc="" />
+  <LangUI langConstant="menuGetDriverLicence_btn_Previous" langTranslation="Anterior" langInternalDesc="" />
+  <LangUI langConstant="menuGetDriverLicence_btn_Next" langTranslation="Próximo" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Overview_text_Title" langTranslation="OFICINA" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Overview_text_Hint" langTranslation="DICA&#xD;&#xA;&#xD;&#xA;ATIVAR / DESATIVAR inscrição na Oficina Steam" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Overview_btn_Overview" langTranslation="Visão geral" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Overview_btn_Upload" langTranslation="Envio" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Overview_btn_Close" langTranslation="Fechar" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Overview_btn_Refresh" langTranslation="Atualizar itens da oficina" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Overview_btn_Subscribe" langTranslation="Inscrever-se" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Overview_btn_Unsubscribe" langTranslation="Cancelar inscrição" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Overview_btn_Download" langTranslation="Baixar" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Overview_btn_RefreshItem" langTranslation="Atualizar" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_text_Title" langTranslation="OFICINA" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_text_Hint" langTranslation="DICA&#xD;&#xA;&#xD;&#xA;ATIVAR / DESATIVAR inscrição na Oficina Steam" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_btn_Overview" langTranslation="Visão geral" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_btn_Upload" langTranslation="Envio" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_btn_Close" langTranslation="Fechar" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_btn_Refresh" langTranslation="Atualizar itens locais" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_btn_UploadItem" langTranslation="Envio" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_btn_UpdateItem" langTranslation="Atualizar" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_DataForm_text_Title" langTranslation="Título" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_DataForm_text_Description" langTranslation="Descrição" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_DataForm_btn_UploadToSteam" langTranslation="Enviar para oficina steam" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_DataFormAsUpdate_text_Title" langTranslation="Título" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_DataFormAsUpdate_text_Description" langTranslation="Descrição" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_DataFormAsUpdate_btn_UpdateToSteam" langTranslation="Enviar para o Steam" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_text_IsCurrentlyUploading" langTranslation="fazendo envio no momento..." langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_text_UploadDone" langTranslation="envio concluído" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_TitleCanNotBeBlank" langTranslation="O título não pode ficar em branco" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_DescriptionCanNotBeBlank" langTranslation="Descrição não pode estar em branco" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_PreviewImageNeeded" langTranslation="Você precisa de uma imagem de visualização para Oficina Steam" langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_ThereIsNoWorkshopitemToUpdate" langTranslation="Não há nenhum item na oficina steam para atualizar." langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_IsNotCurrentSteamUser" langTranslation="Your are not the SteamUser who uploaded this Worksop Item." langInternalDesc="" />
+  <LangUI langConstant="menuQuickTips_text_Title" langTranslation="Dicas rápidas" langInternalDesc="" />
+  <LangUI langConstant="menuQuickTips_text_QuickTips" langTranslation="Caminhe até a porta do motorista e clique com o botão esquerdo para entrar no caminhão.&#xD;&#xA;&#xD;&#xA;Para começar, pressione 4 (tecla padrão) várias vezes até que o motor esteja funcionando.&#xD;&#xA;&#xD;&#xA;Coloque o seletor de marcha na posição pressionando t (tecla padrão).&#xD;&#xA;&#xD;&#xA;Caso esteja preso na engrenagem, você está no modo de classificação, volte para D pressionando R (tecla padrão).&#xD;&#xA;&#xD;&#xA;Se você não tiver certeza, verifique a alavanca para baixo à direita do assento do motorista.&#xD;&#xA;&#xD;&#xA;Pressione espaço (chave padrão) para liberar o freio de estacionamento.&#xD;&#xA;&#xD;&#xA;No caso de você bater e rolar, você pode colocar seu caminhão de volta, pressionando F9 (chave padrão).&#xD;&#xA;&#xD;&#xA;Use o retardador com Q (chave padrão) com freqüência. Caso contrário, você perderá muita pressão de ar e os freios travarão.&#xD;&#xA;&#xD;&#xA;Verifique a ligação das teclas no menu de opções para ver todas as funções.&#xD;&#xA;&#xD;&#xA;Todos os interruptores e alavancas podem ser operados clicando com o botão esquerdo e direito sobre eles." langInternalDesc="" />
+  <LangUI langConstant="menuQuickTips_btn_Back" langTranslation="Voltar" langInternalDesc="" />
+  <LangUI langConstant="Manager_LevelLoading_loadingInfo" langTranslation="Carregando" langInternalDesc="" />
+  <LangUI langConstant="OnScreenNavi_EmployeeHasFinishedHisRoute" langTranslation="O funcionário terminou sua rota." langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxQuitApplication_text_Caption" langTranslation="Sair do jogo" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxQuitApplication_text_Message" langTranslation="Você realmente deseja sair?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxQuitApplication_btn_Accept" langTranslation="Aceitar" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxQuitApplication_btn_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBackToMainMenu_text_Caption" langTranslation="Voltar ao menu principal" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBackToMainMenu_text_Message" langTranslation="Voltar ao menu principal?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBackToMainMenu_btn_Accept" langTranslation="Aceitar" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBackToMainMenu_btn_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfileDelete_text_Caption" langTranslation="Excluir perfil" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfileDelete_text_Message" langTranslation="Excluir perfil?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfileDelete_btn_Accept" langTranslation="Aceitar" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfileDelete_btn_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptAssignment_text_Caption" langTranslation="Aceitar tarefa" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptAssignment_text_Message" langTranslation="Aceitar tarefa?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptAssignment_text_From" langTranslation="De" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptAssignment_text_To" langTranslation="Para" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptAssignment_text_Good" langTranslation="Boa" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptAssignment_text_Price" langTranslation="Preço" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptAssignment_text_Reputation" langTranslation="Reputação" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortAssignment_text_Caption" langTranslation="Cancelar tarefa" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortAssignment_text_Message" langTranslation="Cancelar tarefa?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortAssignment_text_ReputationDeduction" langTranslation="Conclusão da reputação" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortAssignment_text_ContractPenalty" langTranslation="Penalidade de contrato" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_text_Caption" langTranslation="Resumo da tarefa" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_text_Distance" langTranslation="Distância" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_text_Price" langTranslation="Preço" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_text_Reputation" langTranslation="Reputação" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_text_DamageInPercent" langTranslation="Danificar" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_text_PriceDeduction" langTranslation="Dedução de preço" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_text_ReputationDeduction" langTranslation="Conclusão da reputação" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_text_PriceFinal" langTranslation="Preço final" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_text_ReputationFinal" langTranslation="Reputação final" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_text_Pickup" langTranslation="Pegar" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_text_Delivery" langTranslation="Entrega" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_text_Caption" langTranslation="Documentos de Frete" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_text_SignatureNotMade" langTranslation="Por favor assine os documentos de frete" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxResetInput_text_Caption" langTranslation="Redefinir entrada" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxResetInput_text_Message" langTranslation="Redefinir entrada?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxResetInput_text_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxResetInput_text_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTruck_text_Caption" langTranslation="Comprar Caminhão" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTruck_text_Message" langTranslation="Comprar Caminhão?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTruck_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTruck_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTrailer_text_Caption" langTranslation="Comprar Reboque" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTrailer_text_Message" langTranslation="Comprar Reboque?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTrailer_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTrailer_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxSwitchTruck_text_Caption" langTranslation="Trocar Caminhão" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxSwitchTruck_text_Message" langTranslation="Trocar Caminhão?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxSwitchTruck_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxSwitchTruck_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTruckTooLessCapital_text_Caption" langTranslation="Saldo insuficiente" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTruckTooLessCapital_text_Message" langTranslation="Você não possui saldo suficiente para comprar o caminhão." langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTruckTooLessCapital_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTrailerTooLessCapital_text_Caption" langTranslation="Saldo insuficiente" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTrailerTooLessCapital_text_Message" langTranslation="Você não tem fundos suficientes para comprar o reboque." langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTrailerTooLessCapital_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxFireDriver_text_Caption" langTranslation="Demitir motorista" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxFireDriver_text_Message" langTranslation="Demitir motorista?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxFireDriver_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxFireDriver_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxCanNotFireFirstDriver_text_Caption" langTranslation="Não pode despedir o primeiro motorista" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxCanNotFireFirstDriver_text_Message" langTranslation="Você não pode despedir o primeiro motorista!" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxCanNotFireFirstDriver_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxGetDriverLicence_text_Caption" langTranslation="Adquirir licença de motorista" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxGetDriverLicence_text_Message" langTranslation="Adquirir licença de motorista?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxGetDriverLicence_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxGetDriverLicence_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxGetDriverLicenceTooLessCapital_text_Caption" langTranslation="Saldo insuficiente" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxGetDriverLicenceTooLessCapital_text_Message" langTranslation="Você não tem fundos para comprar a Licença de Motorista." langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxGetDriverLicenceTooLessCapital_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxGetDriverLicenceDriverHasAlreadyLicence_text_Caption" langTranslation="Este motorista já tem a licença selecionada" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxGetDriverLicenceDriverHasAlreadyLicence_text_Message" langTranslation="Este motorista já tem a licença selecionada." langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxGetDriverLicenceDriverHasAlreadyLicence_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreatePlayernameIsEmpty_text_Caption" langTranslation="Nome de jogador está vazio" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreatePlayernameIsEmpty_text_Message" langTranslation="Nome de jogador está vazio." langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreatePlayernameIsEmpty_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreateCompanynameIsEmpty_text_Caption" langTranslation="Nome de companhia está vazio" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreateCompanynameIsEmpty_text_Message" langTranslation="Nome de companhia está vazio." langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreateCompanynameIsEmpty_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreatePlayerimageNotSelected_text_Caption" langTranslation="Imagem do jogador não foi selecionada" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreatePlayerimageNotSelected_text_Message" langTranslation="Imagem do jogador não foi selecionada." langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreatePlayerimageNotSelected_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreateCompanyimageNotSelected_text_Caption" langTranslation="Imagem de companhia não foi selecionada" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreateCompanyimageNotSelected_text_Message" langTranslation="Imagem de companhia não foi selecionada." langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreateCompanyimageNotSelected_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreateTruckBrandNotSelected_text_Caption" langTranslation="Marca do caminhão não foi selecionada" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreateTruckBrandNotSelected_text_Message" langTranslation="Marca do caminhão não foi selecionada." langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreateTruckBrandNotSelected_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreateHeadquarterNotSelected_text_Caption" langTranslation="Sede não foi selecionada" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreateHeadquarterNotSelected_text_Message" langTranslation="Sede não foi selecionada." langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxProfilesCreateHeadquarterNotSelected_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxLosingReputationWhenChangingTruck_text_Caption" langTranslation="Perdendo Reputação" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxLosingReputationWhenChangingTruck_text_Message" langTranslation="Aviso! Este motorista está em turnê. No caso de você mudar o veículo, o passeio será abortado, causando taxas convencionais e perda de reputação!" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxLosingReputationWhenChangingTruck_btn_Accept" langTranslation="Aceitar" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxLosingReputationWhenChangingTruck_btn_Cancel" langTranslation="Cancelar" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxMailDelete_text_Caption" langTranslation="Excluir email" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxMailDelete_text_Message" langTranslation="Você realmente deseja excluir este e-mail?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxMailDelete_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxMailDelete_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxSteamNotInitialized_text_Caption" langTranslation="Steam não inicializado" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxSteamNotInitialized_text_Message" langTranslation="O Steam não está disponível (talvez no modo offline)" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxSteamNotInitialized_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxWorkshopUploadSuccessful_text_Caption" langTranslation="Transferência bem sucedida" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxWorkshopUploadSuccessful_text_Message" langTranslation="Seu envio para Oficina Steam foi bem sucedido" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxWorkshopUploadSuccessful_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxWorkshopUploadProgress_text_Caption" langTranslation="Envio em progresso..." langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxWorkshopUploadProgress_text_Message" langTranslation="Sua inscrição na oficina steam está sendo enviada" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxWorkshopUploadErrorMessage_text_Caption" langTranslation="Ocorreu um erro durante envio" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxWorkshopUploadErrorMessage_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangKeycode index="8" langConstant="Backspace" langTranslation="Backspace" allowed="True" langInternalDesc="" />
+  <LangKeycode index="9" langConstant="Tab" langTranslation="Tab" allowed="True" langInternalDesc="" />
+  <LangKeycode index="12" langConstant="Clear" langTranslation="Clear" allowed="True" langInternalDesc="" />
+  <LangKeycode index="13" langConstant="Return" langTranslation="Return" allowed="True" langInternalDesc="" />
+  <LangKeycode index="19" langConstant="Pause" langTranslation="Pause" allowed="True" langInternalDesc="" />
+  <LangKeycode index="27" langConstant="Escape" langTranslation="Escape" allowed="True" langInternalDesc="" />
+  <LangKeycode index="32" langConstant="Space" langTranslation="Space" allowed="True" langInternalDesc="" />
+  <LangKeycode index="33" langConstant="Exclaim" langTranslation="!" allowed="True" langInternalDesc="" />
+  <LangKeycode index="34" langConstant="DoubleQuote" langTranslation="&quot;" allowed="True" langInternalDesc="" />
+  <LangKeycode index="35" langConstant="Hash" langTranslation="#" allowed="True" langInternalDesc="" />
+  <LangKeycode index="36" langConstant="Dollar" langTranslation="$" allowed="True" langInternalDesc="" />
+  <LangKeycode index="38" langConstant="Ampersand" langTranslation="&amp;" allowed="True" langInternalDesc="" />
+  <LangKeycode index="39" langConstant="Quote" langTranslation="'" allowed="True" langInternalDesc="" />
+  <LangKeycode index="40" langConstant="LeftParen" langTranslation="(" allowed="True" langInternalDesc="" />
+  <LangKeycode index="41" langConstant="RightParen" langTranslation=")" allowed="True" langInternalDesc="" />
+  <LangKeycode index="42" langConstant="Asterisk" langTranslation="*" allowed="True" langInternalDesc="" />
+  <LangKeycode index="43" langConstant="Plus" langTranslation="+" allowed="True" langInternalDesc="" />
+  <LangKeycode index="44" langConstant="Comma" langTranslation="," allowed="True" langInternalDesc="" />
+  <LangKeycode index="45" langConstant="Minus" langTranslation="-" allowed="True" langInternalDesc="" />
+  <LangKeycode index="46" langConstant="Period" langTranslation="." allowed="True" langInternalDesc="" />
+  <LangKeycode index="47" langConstant="Slash" langTranslation="/" allowed="True" langInternalDesc="" />
+  <LangKeycode index="48" langConstant="Alpha0" langTranslation="Alpha0" allowed="True" langInternalDesc="" />
+  <LangKeycode index="49" langConstant="Alpha1" langTranslation="Alpha1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="50" langConstant="Alpha2" langTranslation="Alpha2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="51" langConstant="Alpha3" langTranslation="Alpha3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="52" langConstant="Alpha4" langTranslation="Alpha4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="53" langConstant="Alpha5" langTranslation="Alpha5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="54" langConstant="Alpha6" langTranslation="Alpha6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="55" langConstant="Alpha7" langTranslation="Alpha7" allowed="True" langInternalDesc="" />
+  <LangKeycode index="56" langConstant="Alpha8" langTranslation="Alpha8" allowed="True" langInternalDesc="" />
+  <LangKeycode index="57" langConstant="Alpha9" langTranslation="Alpha9" allowed="True" langInternalDesc="" />
+  <LangKeycode index="58" langConstant="Colon" langTranslation="," allowed="True" langInternalDesc="" />
+  <LangKeycode index="59" langConstant="Semicolon" langTranslation=";" allowed="True" langInternalDesc="" />
+  <LangKeycode index="60" langConstant="Less" langTranslation="&lt;" allowed="True" langInternalDesc="" />
+  <LangKeycode index="61" langConstant="Equals" langTranslation="=" allowed="True" langInternalDesc="" />
+  <LangKeycode index="62" langConstant="Greater" langTranslation="&gt;" allowed="True" langInternalDesc="" />
+  <LangKeycode index="63" langConstant="Question" langTranslation="?" allowed="True" langInternalDesc="" />
+  <LangKeycode index="64" langConstant="At" langTranslation="@" allowed="True" langInternalDesc="" />
+  <LangKeycode index="91" langConstant="LeftBracket" langTranslation="[" allowed="True" langInternalDesc="" />
+  <LangKeycode index="92" langConstant="Backslash" langTranslation="\" allowed="True" langInternalDesc="" />
+  <LangKeycode index="93" langConstant="RightBracket" langTranslation="]" allowed="True" langInternalDesc="" />
+  <LangKeycode index="94" langConstant="Caret" langTranslation="^" allowed="True" langInternalDesc="" />
+  <LangKeycode index="95" langConstant="Underscore" langTranslation="_" allowed="True" langInternalDesc="" />
+  <LangKeycode index="96" langConstant="BackQuote" langTranslation="`" allowed="True" langInternalDesc="" />
+  <LangKeycode index="97" langConstant="A" langTranslation="A" allowed="True" langInternalDesc="" />
+  <LangKeycode index="98" langConstant="B" langTranslation="B" allowed="True" langInternalDesc="" />
+  <LangKeycode index="99" langConstant="C" langTranslation="C" allowed="True" langInternalDesc="" />
+  <LangKeycode index="100" langConstant="D" langTranslation="D" allowed="True" langInternalDesc="" />
+  <LangKeycode index="101" langConstant="E" langTranslation="E" allowed="True" langInternalDesc="" />
+  <LangKeycode index="102" langConstant="F" langTranslation="F" allowed="True" langInternalDesc="" />
+  <LangKeycode index="103" langConstant="G" langTranslation="G" allowed="True" langInternalDesc="" />
+  <LangKeycode index="104" langConstant="H" langTranslation="H" allowed="True" langInternalDesc="" />
+  <LangKeycode index="105" langConstant="I" langTranslation="I" allowed="True" langInternalDesc="" />
+  <LangKeycode index="106" langConstant="J" langTranslation="J" allowed="True" langInternalDesc="" />
+  <LangKeycode index="107" langConstant="K" langTranslation="K" allowed="True" langInternalDesc="" />
+  <LangKeycode index="108" langConstant="L" langTranslation="L" allowed="True" langInternalDesc="" />
+  <LangKeycode index="109" langConstant="M" langTranslation="M" allowed="True" langInternalDesc="" />
+  <LangKeycode index="110" langConstant="N" langTranslation="N" allowed="True" langInternalDesc="" />
+  <LangKeycode index="111" langConstant="O" langTranslation="O" allowed="True" langInternalDesc="" />
+  <LangKeycode index="112" langConstant="P" langTranslation="P" allowed="True" langInternalDesc="" />
+  <LangKeycode index="113" langConstant="Q" langTranslation="Q" allowed="True" langInternalDesc="" />
+  <LangKeycode index="114" langConstant="R" langTranslation="R" allowed="True" langInternalDesc="" />
+  <LangKeycode index="115" langConstant="S" langTranslation="S" allowed="True" langInternalDesc="" />
+  <LangKeycode index="116" langConstant="T" langTranslation="T" allowed="True" langInternalDesc="" />
+  <LangKeycode index="117" langConstant="U" langTranslation="U" allowed="True" langInternalDesc="" />
+  <LangKeycode index="118" langConstant="V" langTranslation="V" allowed="True" langInternalDesc="" />
+  <LangKeycode index="119" langConstant="W" langTranslation="W" allowed="True" langInternalDesc="" />
+  <LangKeycode index="120" langConstant="X" langTranslation="X" allowed="True" langInternalDesc="" />
+  <LangKeycode index="121" langConstant="Y" langTranslation="Y" allowed="True" langInternalDesc="" />
+  <LangKeycode index="122" langConstant="Z" langTranslation="Z" allowed="True" langInternalDesc="" />
+  <LangKeycode index="127" langConstant="Delete" langTranslation="Delete" allowed="True" langInternalDesc="" />
+  <LangKeycode index="256" langConstant="Keypad0" langTranslation="Tecla0" allowed="True" langInternalDesc="" />
+  <LangKeycode index="257" langConstant="Keypad1" langTranslation="Tecla1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="258" langConstant="Keypad2" langTranslation="Tecla2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="259" langConstant="Keypad3" langTranslation="Tecla3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="260" langConstant="Keypad4" langTranslation="Tecla4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="261" langConstant="Keypad5" langTranslation="Tecla5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="262" langConstant="Keypad6" langTranslation="Tecla6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="263" langConstant="Keypad7" langTranslation="Tecla7" allowed="True" langInternalDesc="" />
+  <LangKeycode index="264" langConstant="Keypad8" langTranslation="Tecla8" allowed="True" langInternalDesc="" />
+  <LangKeycode index="265" langConstant="Keypad9" langTranslation="Tecla9" allowed="True" langInternalDesc="" />
+  <LangKeycode index="266" langConstant="KeypadPeriod" langTranslation="Tecla ." allowed="True" langInternalDesc="" />
+  <LangKeycode index="267" langConstant="KeypadDivide" langTranslation="Tecla /" allowed="True" langInternalDesc="" />
+  <LangKeycode index="268" langConstant="KeypadMultiply" langTranslation="Tecla *" allowed="True" langInternalDesc="" />
+  <LangKeycode index="269" langConstant="KeypadMinus" langTranslation="Tecla -" allowed="True" langInternalDesc="" />
+  <LangKeycode index="270" langConstant="KeypadPlus" langTranslation="Tecla +" allowed="True" langInternalDesc="" />
+  <LangKeycode index="271" langConstant="KeypadEnter" langTranslation="Tecla Enter" allowed="True" langInternalDesc="" />
+  <LangKeycode index="272" langConstant="KeypadEquals" langTranslation="Tecla =" allowed="True" langInternalDesc="" />
+  <LangKeycode index="273" langConstant="UpArrow" langTranslation="UpArrow" allowed="True" langInternalDesc="" />
+  <LangKeycode index="274" langConstant="DownArrow" langTranslation="DownArrow" allowed="True" langInternalDesc="" />
+  <LangKeycode index="275" langConstant="RightArrow" langTranslation="RightArrow" allowed="True" langInternalDesc="" />
+  <LangKeycode index="276" langConstant="LeftArrow" langTranslation="LeftArrow" allowed="True" langInternalDesc="" />
+  <LangKeycode index="277" langConstant="Insert" langTranslation="Insert" allowed="True" langInternalDesc="" />
+  <LangKeycode index="278" langConstant="Home" langTranslation="Home" allowed="True" langInternalDesc="" />
+  <LangKeycode index="279" langConstant="End" langTranslation="End" allowed="True" langInternalDesc="" />
+  <LangKeycode index="280" langConstant="PageUp" langTranslation="PageUp" allowed="True" langInternalDesc="" />
+  <LangKeycode index="281" langConstant="PageDown" langTranslation="PageDown" allowed="True" langInternalDesc="" />
+  <LangKeycode index="282" langConstant="F1" langTranslation="F1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="283" langConstant="F2" langTranslation="F2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="284" langConstant="F3" langTranslation="F3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="285" langConstant="F4" langTranslation="F4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="286" langConstant="F5" langTranslation="F5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="287" langConstant="F6" langTranslation="F6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="288" langConstant="F7" langTranslation="F7" allowed="True" langInternalDesc="" />
+  <LangKeycode index="289" langConstant="F8" langTranslation="F8" allowed="True" langInternalDesc="" />
+  <LangKeycode index="290" langConstant="F9" langTranslation="F9" allowed="True" langInternalDesc="" />
+  <LangKeycode index="291" langConstant="F10" langTranslation="F10" allowed="True" langInternalDesc="" />
+  <LangKeycode index="292" langConstant="F11" langTranslation="F11" allowed="True" langInternalDesc="" />
+  <LangKeycode index="293" langConstant="F12" langTranslation="F12" allowed="True" langInternalDesc="" />
+  <LangKeycode index="294" langConstant="F13" langTranslation="F13" allowed="True" langInternalDesc="" />
+  <LangKeycode index="295" langConstant="F14" langTranslation="F14" allowed="True" langInternalDesc="" />
+  <LangKeycode index="296" langConstant="F15" langTranslation="F15" allowed="True" langInternalDesc="" />
+  <LangKeycode index="300" langConstant="Numlock" langTranslation="Numlock" allowed="True" langInternalDesc="" />
+  <LangKeycode index="301" langConstant="CapsLock" langTranslation="CapsLock" allowed="True" langInternalDesc="" />
+  <LangKeycode index="302" langConstant="ScrollLock" langTranslation="ScrollLock" allowed="True" langInternalDesc="" />
+  <LangKeycode index="303" langConstant="RightShift" langTranslation="RightShift" allowed="True" langInternalDesc="" />
+  <LangKeycode index="304" langConstant="LeftShift" langTranslation="LeftShift" allowed="True" langInternalDesc="" />
+  <LangKeycode index="305" langConstant="RightControl" langTranslation="RightControl" allowed="True" langInternalDesc="" />
+  <LangKeycode index="306" langConstant="LeftControl" langTranslation="LeftControl" allowed="True" langInternalDesc="" />
+  <LangKeycode index="307" langConstant="RightAlt" langTranslation="RightAlt" allowed="True" langInternalDesc="" />
+  <LangKeycode index="308" langConstant="LeftAlt" langTranslation="LeftAlt" allowed="True" langInternalDesc="" />
+  <LangKeycode index="309" langConstant="RightCommand" langTranslation="RightCommand/RightApple" allowed="True" langInternalDesc="" />
+  <LangKeycode index="310" langConstant="LeftCommand" langTranslation="LeftCommand/LeftApple" allowed="True" langInternalDesc="" />
+  <LangKeycode index="311" langConstant="LeftWindows" langTranslation="LeftWindows" allowed="True" langInternalDesc="" />
+  <LangKeycode index="312" langConstant="RightWindows" langTranslation="RightWindows" allowed="True" langInternalDesc="" />
+  <LangKeycode index="313" langConstant="AltGr" langTranslation="AltGr" allowed="True" langInternalDesc="" />
+  <LangKeycode index="315" langConstant="Help" langTranslation="Help" allowed="True" langInternalDesc="" />
+  <LangKeycode index="316" langConstant="Print" langTranslation="Print" allowed="True" langInternalDesc="" />
+  <LangKeycode index="317" langConstant="SysReq" langTranslation="SysReq" allowed="True" langInternalDesc="" />
+  <LangKeycode index="318" langConstant="Break" langTranslation="Break" allowed="True" langInternalDesc="" />
+  <LangKeycode index="319" langConstant="Menu" langTranslation="Menu" allowed="True" langInternalDesc="" />
+  <LangKeycode index="323" langConstant="Mouse0" langTranslation="Mouse0" allowed="True" langInternalDesc="" />
+  <LangKeycode index="324" langConstant="Mouse1" langTranslation="Mouse1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="325" langConstant="Mouse2" langTranslation="Mouse2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="326" langConstant="Mouse3" langTranslation="Mouse3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="327" langConstant="Mouse4" langTranslation="Mouse4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="328" langConstant="Mouse5" langTranslation="Mouse5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="329" langConstant="Mouse6" langTranslation="Mouse6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="330" langConstant="JoystickButton0" langTranslation="JoystickButton0" allowed="True" langInternalDesc="" />
+  <LangKeycode index="331" langConstant="JoystickButton1" langTranslation="JoystickButton1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="332" langConstant="JoystickButton2" langTranslation="JoystickButton2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="333" langConstant="JoystickButton3" langTranslation="JoystickButton3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="334" langConstant="JoystickButton4" langTranslation="JoystickButton4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="335" langConstant="JoystickButton5" langTranslation="JoystickButton5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="336" langConstant="JoystickButton6" langTranslation="JoystickButton6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="337" langConstant="JoystickButton7" langTranslation="JoystickButton7" allowed="True" langInternalDesc="" />
+  <LangKeycode index="338" langConstant="JoystickButton8" langTranslation="JoystickButton8" allowed="True" langInternalDesc="" />
+  <LangKeycode index="339" langConstant="JoystickButton9" langTranslation="JoystickButton9" allowed="True" langInternalDesc="" />
+  <LangKeycode index="340" langConstant="JoystickButton10" langTranslation="JoystickButton10" allowed="True" langInternalDesc="" />
+  <LangKeycode index="341" langConstant="JoystickButton11" langTranslation="JoystickButton11" allowed="True" langInternalDesc="" />
+  <LangKeycode index="342" langConstant="JoystickButton12" langTranslation="JoystickButton12" allowed="True" langInternalDesc="" />
+  <LangKeycode index="343" langConstant="JoystickButton13" langTranslation="JoystickButton13" allowed="True" langInternalDesc="" />
+  <LangKeycode index="344" langConstant="JoystickButton14" langTranslation="JoystickButton14" allowed="True" langInternalDesc="" />
+  <LangKeycode index="345" langConstant="JoystickButton15" langTranslation="JoystickButton15" allowed="True" langInternalDesc="" />
+  <LangKeycode index="346" langConstant="JoystickButton16" langTranslation="JoystickButton16" allowed="True" langInternalDesc="" />
+  <LangKeycode index="347" langConstant="JoystickButton17" langTranslation="JoystickButton17" allowed="True" langInternalDesc="" />
+  <LangKeycode index="348" langConstant="JoystickButton18" langTranslation="JoystickButton18" allowed="True" langInternalDesc="" />
+  <LangKeycode index="349" langConstant="JoystickButton19" langTranslation="JoystickButton19" allowed="True" langInternalDesc="" />
+  <LangKeycode index="350" langConstant="Joystick1Button0" langTranslation="Joystick1Button0" allowed="True" langInternalDesc="" />
+  <LangKeycode index="351" langConstant="Joystick1Button1" langTranslation="Joystick1Button1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="352" langConstant="Joystick1Button2" langTranslation="Joystick1Button2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="353" langConstant="Joystick1Button3" langTranslation="Joystick1Button3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="354" langConstant="Joystick1Button4" langTranslation="Joystick1Button4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="355" langConstant="Joystick1Button5" langTranslation="Joystick1Button5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="356" langConstant="Joystick1Button6" langTranslation="Joystick1Button6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="357" langConstant="Joystick1Button7" langTranslation="Joystick1Button7" allowed="True" langInternalDesc="" />
+  <LangKeycode index="358" langConstant="Joystick1Button8" langTranslation="Joystick1Button8" allowed="True" langInternalDesc="" />
+  <LangKeycode index="359" langConstant="Joystick1Button9" langTranslation="Joystick1Button9" allowed="True" langInternalDesc="" />
+  <LangKeycode index="360" langConstant="Joystick1Button10" langTranslation="Joystick1Button10" allowed="True" langInternalDesc="" />
+  <LangKeycode index="361" langConstant="Joystick1Button11" langTranslation="Joystick1Button11" allowed="True" langInternalDesc="" />
+  <LangKeycode index="362" langConstant="Joystick1Button12" langTranslation="Joystick1Button12" allowed="True" langInternalDesc="" />
+  <LangKeycode index="363" langConstant="Joystick1Button13" langTranslation="Joystick1Button13" allowed="True" langInternalDesc="" />
+  <LangKeycode index="364" langConstant="Joystick1Button14" langTranslation="Joystick1Button14" allowed="True" langInternalDesc="" />
+  <LangKeycode index="365" langConstant="Joystick1Button15" langTranslation="Joystick1Button15" allowed="True" langInternalDesc="" />
+  <LangKeycode index="366" langConstant="Joystick1Button16" langTranslation="Joystick1Button16" allowed="True" langInternalDesc="" />
+  <LangKeycode index="367" langConstant="Joystick1Button17" langTranslation="Joystick1Button17" allowed="True" langInternalDesc="" />
+  <LangKeycode index="368" langConstant="Joystick1Button18" langTranslation="Joystick1Button18" allowed="True" langInternalDesc="" />
+  <LangKeycode index="369" langConstant="Joystick1Button19" langTranslation="Joystick1Button19" allowed="True" langInternalDesc="" />
+  <LangKeycode index="370" langConstant="Joystick2Button0" langTranslation="Joystick2Button0" allowed="True" langInternalDesc="" />
+  <LangKeycode index="371" langConstant="Joystick2Button1" langTranslation="Joystick2Button1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="372" langConstant="Joystick2Button2" langTranslation="Joystick2Button2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="373" langConstant="Joystick2Button3" langTranslation="Joystick2Button3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="374" langConstant="Joystick2Button4" langTranslation="Joystick2Button4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="375" langConstant="Joystick2Button5" langTranslation="Joystick2Button5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="376" langConstant="Joystick2Button6" langTranslation="Joystick2Button6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="377" langConstant="Joystick2Button7" langTranslation="Joystick2Button7" allowed="True" langInternalDesc="" />
+  <LangKeycode index="378" langConstant="Joystick2Button8" langTranslation="Joystick2Button8" allowed="True" langInternalDesc="" />
+  <LangKeycode index="379" langConstant="Joystick2Button9" langTranslation="Joystick2Button9" allowed="True" langInternalDesc="" />
+  <LangKeycode index="380" langConstant="Joystick2Button10" langTranslation="Joystick2Button10" allowed="True" langInternalDesc="" />
+  <LangKeycode index="381" langConstant="Joystick2Button11" langTranslation="Joystick2Button11" allowed="True" langInternalDesc="" />
+  <LangKeycode index="382" langConstant="Joystick2Button12" langTranslation="Joystick2Button12" allowed="True" langInternalDesc="" />
+  <LangKeycode index="383" langConstant="Joystick2Button13" langTranslation="Joystick2Button13" allowed="True" langInternalDesc="" />
+  <LangKeycode index="384" langConstant="Joystick2Button14" langTranslation="Joystick2Button14" allowed="True" langInternalDesc="" />
+  <LangKeycode index="385" langConstant="Joystick2Button15" langTranslation="Joystick2Button15" allowed="True" langInternalDesc="" />
+  <LangKeycode index="386" langConstant="Joystick2Button16" langTranslation="Joystick2Button16" allowed="True" langInternalDesc="" />
+  <LangKeycode index="387" langConstant="Joystick2Button17" langTranslation="Joystick2Button17" allowed="True" langInternalDesc="" />
+  <LangKeycode index="388" langConstant="Joystick2Button18" langTranslation="Joystick2Button18" allowed="True" langInternalDesc="" />
+  <LangKeycode index="389" langConstant="Joystick2Button19" langTranslation="Joystick2Button19" allowed="True" langInternalDesc="" />
+  <LangKeycode index="390" langConstant="Joystick3Button0" langTranslation="Joystick3Button0" allowed="True" langInternalDesc="" />
+  <LangKeycode index="391" langConstant="Joystick3Button1" langTranslation="Joystick3Button1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="392" langConstant="Joystick3Button2" langTranslation="Joystick3Button2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="393" langConstant="Joystick3Button3" langTranslation="Joystick3Button3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="394" langConstant="Joystick3Button4" langTranslation="Joystick3Button4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="395" langConstant="Joystick3Button5" langTranslation="Joystick3Button5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="396" langConstant="Joystick3Button6" langTranslation="Joystick3Button6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="397" langConstant="Joystick3Button7" langTranslation="Joystick3Button7" allowed="True" langInternalDesc="" />
+  <LangKeycode index="398" langConstant="Joystick3Button8" langTranslation="Joystick3Button8" allowed="True" langInternalDesc="" />
+  <LangKeycode index="399" langConstant="Joystick3Button9" langTranslation="Joystick3Button9" allowed="True" langInternalDesc="" />
+  <LangKeycode index="400" langConstant="Joystick3Button10" langTranslation="Joystick3Button10" allowed="True" langInternalDesc="" />
+  <LangKeycode index="401" langConstant="Joystick3Button11" langTranslation="Joystick3Button11" allowed="True" langInternalDesc="" />
+  <LangKeycode index="402" langConstant="Joystick3Button12" langTranslation="Joystick3Button12" allowed="True" langInternalDesc="" />
+  <LangKeycode index="403" langConstant="Joystick3Button13" langTranslation="Joystick3Button13" allowed="True" langInternalDesc="" />
+  <LangKeycode index="404" langConstant="Joystick3Button14" langTranslation="Joystick3Button14" allowed="True" langInternalDesc="" />
+  <LangKeycode index="405" langConstant="Joystick3Button15" langTranslation="Joystick3Button15" allowed="True" langInternalDesc="" />
+  <LangKeycode index="406" langConstant="Joystick3Button16" langTranslation="Joystick3Button16" allowed="True" langInternalDesc="" />
+  <LangKeycode index="407" langConstant="Joystick3Button17" langTranslation="Joystick3Button17" allowed="True" langInternalDesc="" />
+  <LangKeycode index="408" langConstant="Joystick3Button18" langTranslation="Joystick3Button18" allowed="True" langInternalDesc="" />
+  <LangKeycode index="409" langConstant="Joystick3Button19" langTranslation="Joystick3Button19" allowed="True" langInternalDesc="" />
+  <LangKeycode index="410" langConstant="Joystick4Button0" langTranslation="Joystick4Button0" allowed="True" langInternalDesc="" />
+  <LangKeycode index="411" langConstant="Joystick4Button1" langTranslation="Joystick4Button1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="412" langConstant="Joystick4Button2" langTranslation="Joystick4Button2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="413" langConstant="Joystick4Button3" langTranslation="Joystick4Button3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="414" langConstant="Joystick4Button4" langTranslation="Joystick4Button4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="415" langConstant="Joystick4Button5" langTranslation="Joystick4Button5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="416" langConstant="Joystick4Button6" langTranslation="Joystick4Button6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="417" langConstant="Joystick4Button7" langTranslation="Joystick4Button7" allowed="True" langInternalDesc="" />
+  <LangKeycode index="418" langConstant="Joystick4Button8" langTranslation="Joystick4Button8" allowed="True" langInternalDesc="" />
+  <LangKeycode index="419" langConstant="Joystick4Button9" langTranslation="Joystick4Button9" allowed="True" langInternalDesc="" />
+  <LangKeycode index="420" langConstant="Joystick4Button10" langTranslation="Joystick4Button10" allowed="True" langInternalDesc="" />
+  <LangKeycode index="421" langConstant="Joystick4Button11" langTranslation="Joystick4Button11" allowed="True" langInternalDesc="" />
+  <LangKeycode index="422" langConstant="Joystick4Button12" langTranslation="Joystick4Button12" allowed="True" langInternalDesc="" />
+  <LangKeycode index="423" langConstant="Joystick4Button13" langTranslation="Joystick4Button13" allowed="True" langInternalDesc="" />
+  <LangKeycode index="424" langConstant="Joystick4Button14" langTranslation="Joystick4Button14" allowed="True" langInternalDesc="" />
+  <LangKeycode index="425" langConstant="Joystick4Button15" langTranslation="Joystick4Button15" allowed="True" langInternalDesc="" />
+  <LangKeycode index="426" langConstant="Joystick4Button16" langTranslation="Joystick4Button16" allowed="True" langInternalDesc="" />
+  <LangKeycode index="427" langConstant="Joystick4Button17" langTranslation="Joystick4Button17" allowed="True" langInternalDesc="" />
+  <LangKeycode index="428" langConstant="Joystick4Button18" langTranslation="Joystick4Button18" allowed="True" langInternalDesc="" />
+  <LangKeycode index="429" langConstant="Joystick4Button19" langTranslation="Joystick4Button19" allowed="True" langInternalDesc="" />
+  <LangKeycode index="430" langConstant="Joystick5Button0" langTranslation="Joystick5Button0" allowed="True" langInternalDesc="" />
+  <LangKeycode index="431" langConstant="Joystick5Button1" langTranslation="Joystick5Button1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="432" langConstant="Joystick5Button2" langTranslation="Joystick5Button2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="433" langConstant="Joystick5Button3" langTranslation="Joystick5Button3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="434" langConstant="Joystick5Button4" langTranslation="Joystick5Button4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="435" langConstant="Joystick5Button5" langTranslation="Joystick5Button5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="436" langConstant="Joystick5Button6" langTranslation="Joystick5Button6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="437" langConstant="Joystick5Button7" langTranslation="Joystick5Button7" allowed="True" langInternalDesc="" />
+  <LangKeycode index="438" langConstant="Joystick5Button8" langTranslation="Joystick5Button8" allowed="True" langInternalDesc="" />
+  <LangKeycode index="439" langConstant="Joystick5Button9" langTranslation="Joystick5Button9" allowed="True" langInternalDesc="" />
+  <LangKeycode index="440" langConstant="Joystick5Button10" langTranslation="Joystick5Button10" allowed="True" langInternalDesc="" />
+  <LangKeycode index="441" langConstant="Joystick5Button11" langTranslation="Joystick5Button11" allowed="True" langInternalDesc="" />
+  <LangKeycode index="442" langConstant="Joystick5Button12" langTranslation="Joystick5Button12" allowed="True" langInternalDesc="" />
+  <LangKeycode index="443" langConstant="Joystick5Button13" langTranslation="Joystick5Button13" allowed="True" langInternalDesc="" />
+  <LangKeycode index="444" langConstant="Joystick5Button14" langTranslation="Joystick5Button14" allowed="True" langInternalDesc="" />
+  <LangKeycode index="445" langConstant="Joystick5Button15" langTranslation="Joystick5Button15" allowed="True" langInternalDesc="" />
+  <LangKeycode index="446" langConstant="Joystick5Button16" langTranslation="Joystick5Button16" allowed="True" langInternalDesc="" />
+  <LangKeycode index="447" langConstant="Joystick5Button17" langTranslation="Joystick5Button17" allowed="True" langInternalDesc="" />
+  <LangKeycode index="448" langConstant="Joystick5Button18" langTranslation="Joystick5Button18" allowed="True" langInternalDesc="" />
+  <LangKeycode index="449" langConstant="Joystick5Button19" langTranslation="Joystick5Button19" allowed="True" langInternalDesc="" />
+  <LangKeycode index="450" langConstant="Joystick6Button0" langTranslation="Joystick6Button0" allowed="True" langInternalDesc="" />
+  <LangKeycode index="451" langConstant="Joystick6Button1" langTranslation="Joystick6Button1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="452" langConstant="Joystick6Button2" langTranslation="Joystick6Button2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="453" langConstant="Joystick6Button3" langTranslation="Joystick6Button3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="454" langConstant="Joystick6Button4" langTranslation="Joystick6Button4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="455" langConstant="Joystick6Button5" langTranslation="Joystick6Button5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="456" langConstant="Joystick6Button6" langTranslation="Joystick6Button6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="457" langConstant="Joystick6Button7" langTranslation="Joystick6Button7" allowed="True" langInternalDesc="" />
+  <LangKeycode index="458" langConstant="Joystick6Button8" langTranslation="Joystick6Button8" allowed="True" langInternalDesc="" />
+  <LangKeycode index="459" langConstant="Joystick6Button9" langTranslation="Joystick6Button9" allowed="True" langInternalDesc="" />
+  <LangKeycode index="460" langConstant="Joystick6Button10" langTranslation="Joystick6Button10" allowed="True" langInternalDesc="" />
+  <LangKeycode index="461" langConstant="Joystick6Button11" langTranslation="Joystick6Button11" allowed="True" langInternalDesc="" />
+  <LangKeycode index="462" langConstant="Joystick6Button12" langTranslation="Joystick6Button12" allowed="True" langInternalDesc="" />
+  <LangKeycode index="463" langConstant="Joystick6Button13" langTranslation="Joystick6Button13" allowed="True" langInternalDesc="" />
+  <LangKeycode index="464" langConstant="Joystick6Button14" langTranslation="Joystick6Button14" allowed="True" langInternalDesc="" />
+  <LangKeycode index="465" langConstant="Joystick6Button15" langTranslation="Joystick6Button15" allowed="True" langInternalDesc="" />
+  <LangKeycode index="466" langConstant="Joystick6Button16" langTranslation="Joystick6Button16" allowed="True" langInternalDesc="" />
+  <LangKeycode index="467" langConstant="Joystick6Button17" langTranslation="Joystick6Button17" allowed="True" langInternalDesc="" />
+  <LangKeycode index="468" langConstant="Joystick6Button18" langTranslation="Joystick6Button18" allowed="True" langInternalDesc="" />
+  <LangKeycode index="469" langConstant="Joystick6Button19" langTranslation="Joystick6Button19" allowed="True" langInternalDesc="" />
+  <LangKeycode index="470" langConstant="Joystick7Button0" langTranslation="Joystick7Button0" allowed="True" langInternalDesc="" />
+  <LangKeycode index="471" langConstant="Joystick7Button1" langTranslation="Joystick7Button1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="472" langConstant="Joystick7Button2" langTranslation="Joystick7Button2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="473" langConstant="Joystick7Button3" langTranslation="Joystick7Button3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="474" langConstant="Joystick7Button4" langTranslation="Joystick7Button4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="475" langConstant="Joystick7Button5" langTranslation="Joystick7Button5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="476" langConstant="Joystick7Button6" langTranslation="Joystick7Button6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="477" langConstant="Joystick7Button7" langTranslation="Joystick7Button7" allowed="True" langInternalDesc="" />
+  <LangKeycode index="478" langConstant="Joystick7Button8" langTranslation="Joystick7Button8" allowed="True" langInternalDesc="" />
+  <LangKeycode index="479" langConstant="Joystick7Button9" langTranslation="Joystick7Button9" allowed="True" langInternalDesc="" />
+  <LangKeycode index="480" langConstant="Joystick7Button10" langTranslation="Joystick7Button10" allowed="True" langInternalDesc="" />
+  <LangKeycode index="481" langConstant="Joystick7Button11" langTranslation="Joystick7Button11" allowed="True" langInternalDesc="" />
+  <LangKeycode index="482" langConstant="Joystick7Button12" langTranslation="Joystick7Button12" allowed="True" langInternalDesc="" />
+  <LangKeycode index="483" langConstant="Joystick7Button13" langTranslation="Joystick7Button13" allowed="True" langInternalDesc="" />
+  <LangKeycode index="484" langConstant="Joystick7Button14" langTranslation="Joystick7Button14" allowed="True" langInternalDesc="" />
+  <LangKeycode index="485" langConstant="Joystick7Button15" langTranslation="Joystick7Button15" allowed="True" langInternalDesc="" />
+  <LangKeycode index="486" langConstant="Joystick7Button16" langTranslation="Joystick7Button16" allowed="True" langInternalDesc="" />
+  <LangKeycode index="487" langConstant="Joystick7Button17" langTranslation="Joystick7Button17" allowed="True" langInternalDesc="" />
+  <LangKeycode index="488" langConstant="Joystick7Button18" langTranslation="Joystick7Button18" allowed="True" langInternalDesc="" />
+  <LangKeycode index="489" langConstant="Joystick7Button19" langTranslation="Joystick7Button19" allowed="True" langInternalDesc="" />
+  <LangKeycode index="490" langConstant="Joystick8Button0" langTranslation="Joystick8Button0" allowed="True" langInternalDesc="" />
+  <LangKeycode index="491" langConstant="Joystick8Button1" langTranslation="Joystick8Button1" allowed="True" langInternalDesc="" />
+  <LangKeycode index="492" langConstant="Joystick8Button2" langTranslation="Joystick8Button2" allowed="True" langInternalDesc="" />
+  <LangKeycode index="493" langConstant="Joystick8Button3" langTranslation="Joystick8Button3" allowed="True" langInternalDesc="" />
+  <LangKeycode index="494" langConstant="Joystick8Button4" langTranslation="Joystick8Button4" allowed="True" langInternalDesc="" />
+  <LangKeycode index="495" langConstant="Joystick8Button5" langTranslation="Joystick8Button5" allowed="True" langInternalDesc="" />
+  <LangKeycode index="496" langConstant="Joystick8Button6" langTranslation="Joystick8Button6" allowed="True" langInternalDesc="" />
+  <LangKeycode index="497" langConstant="Joystick8Button7" langTranslation="Joystick8Button7" allowed="True" langInternalDesc="" />
+  <LangKeycode index="498" langConstant="Joystick8Button8" langTranslation="Joystick8Button8" allowed="True" langInternalDesc="" />
+  <LangKeycode index="499" langConstant="Joystick8Button9" langTranslation="Joystick8Button9" allowed="True" langInternalDesc="" />
+  <LangKeycode index="500" langConstant="Joystick8Button10" langTranslation="Joystick8Button10" allowed="True" langInternalDesc="" />
+  <LangKeycode index="501" langConstant="Joystick8Button11" langTranslation="Joystick8Button11" allowed="True" langInternalDesc="" />
+  <LangKeycode index="502" langConstant="Joystick8Button12" langTranslation="Joystick8Button12" allowed="True" langInternalDesc="" />
+  <LangKeycode index="503" langConstant="Joystick8Button13" langTranslation="Joystick8Button13" allowed="True" langInternalDesc="" />
+  <LangKeycode index="504" langConstant="Joystick8Button14" langTranslation="Joystick8Button14" allowed="True" langInternalDesc="" />
+  <LangKeycode index="505" langConstant="Joystick8Button15" langTranslation="Joystick8Button15" allowed="True" langInternalDesc="" />
+  <LangKeycode index="506" langConstant="Joystick8Button16" langTranslation="Joystick8Button16" allowed="True" langInternalDesc="" />
+  <LangKeycode index="507" langConstant="Joystick8Button17" langTranslation="Joystick8Button17" allowed="True" langInternalDesc="" />
+  <LangKeycode index="508" langConstant="Joystick8Button18" langTranslation="Joystick8Button18" allowed="True" langInternalDesc="" />
+  <LangKeycode index="509" langConstant="Joystick8Button19" langTranslation="Joystick8Button19" allowed="True" langInternalDesc="" />
+  <LangAxis langConstant="Axis1" langTranslation="Eixo 1" langInternalDesc="" />
+  <LangAxis langConstant="Axis2" langTranslation="Eixo 2" langInternalDesc="" />
+  <LangAxis langConstant="Axis3" langTranslation="Eixo 3" langInternalDesc="" />
+  <LangAxis langConstant="Axis4" langTranslation="Eixo 4" langInternalDesc="" />
+  <LangAxis langConstant="Axis5" langTranslation="Eixo 5" langInternalDesc="" />
+  <LangAxis langConstant="Axis6" langTranslation="Eixo 6" langInternalDesc="" />
+  <LangAxis langConstant="Axis7" langTranslation="Eixo 7" langInternalDesc="" />
+  <LangAxis langConstant="Axis8" langTranslation="Eixo 8" langInternalDesc="" />
+  <LangAxis langConstant="Axis9" langTranslation="Eixo 9" langInternalDesc="" />
+  <LangAxis langConstant="Axis10" langTranslation="Eixo 10" langInternalDesc="" />
+  <LangAxis langConstant="Axis11" langTranslation="Eixo 11" langInternalDesc="" />
+  <LangAxis langConstant="Axis12" langTranslation="Eixo 12" langInternalDesc="" />
+  <LangAxis langConstant="Axis13" langTranslation="Eixo 13" langInternalDesc="" />
+  <LangAxis langConstant="Axis14" langTranslation="Eixo 14" langInternalDesc="" />
+  <LangAxis langConstant="Axis15" langTranslation="Eixo 15" langInternalDesc="" />
+  <LangAxis langConstant="Axis16" langTranslation="Eixo 16" langInternalDesc="" />
+  <LangAxis langConstant="Axis17" langTranslation="Eixo 17" langInternalDesc="" />
+  <LangAxis langConstant="Axis18" langTranslation="Eixo 18" langInternalDesc="" />
+  <LangAxis langConstant="Axis19" langTranslation="Eixo 19" langInternalDesc="" />
+  <LangAxis langConstant="Axis20" langTranslation="Eixo 20" langInternalDesc="" />
+  <LangAxis langConstant="Axis21" langTranslation="Eixo 21" langInternalDesc="" />
+  <LangAxis langConstant="Axis22" langTranslation="Eixo 22" langInternalDesc="" />
+  <LangAxis langConstant="Axis23" langTranslation="Eixo 23" langInternalDesc="" />
+  <LangAxis langConstant="Axis24" langTranslation="Eixo 24" langInternalDesc="" />
+  <LangAxis langConstant="Axis25" langTranslation="Eixo 25" langInternalDesc="" />
+  <LangAxis langConstant="Axis26" langTranslation="Eixo 26" langInternalDesc="" />
+  <LangAxis langConstant="Axis27" langTranslation="Eixo 27" langInternalDesc="" />
+  <LangAxis langConstant="Axis28" langTranslation="Eixo 28" langInternalDesc="" />
+  <LangAxis langConstant="MouseXAxis" langTranslation="Eixo X do mouse" langInternalDesc="" />
+  <LangAxis langConstant="MouseYAxis" langTranslation="Eixo Y do mouse" langInternalDesc="" />
+  <LangAxis langConstant="MouseScrollwheel" langTranslation="Rolagem do mouse" langInternalDesc="" />
+  <LangHint langConstant="hintGasStation_text_Title" langTranslation="Posto de Gasolina" langInternalDesc="" />
+  <LangHint langConstant="hintGasStation_text_Message" langTranslation="Estacione seu caminhão, saia pressionando o botão direito do mouse. Em seguida, caminhe até o seu tanque de combustível e mantenha o botão esquerdo do mouse pressionado para abastecer. Depois que subir de volta em sua cabine, pressionando o botão esquerdo do mouse." langInternalDesc="" />
+  <LangHint langConstant="hintGasStation_text_Liter" langTranslation="Litro" langInternalDesc="" />
+  <LangHint langConstant="hintGasStation_text_Price" langTranslation="Preço" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Berlin" langTranslation="Berlim" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Bremen" langTranslation="Bremen" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Cologne" langTranslation="Colony (60%)" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Dortmund" langTranslation="Dortmund" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Duisburg" langTranslation="Duisburg" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Frankfurt" langTranslation="Frankfurt" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Hamburg" langTranslation="Hamburgo" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Hanover" langTranslation="Hanôver" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Kiel" langTranslation="Kiel" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Leipzig" langTranslation="Leipzig" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Magdeburg" langTranslation="Magdeburg" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Nuremberg" langTranslation="Nuremberg" langInternalDesc="" />
+  <LangEco langConstant="eco_Headquarter_Name_Rostock" langTranslation="Rostock" langInternalDesc="" />
+  <LangEco langConstant="eco_Good_Name_Fruits" langTranslation="Frutas" langInternalDesc="" />
+  <LangEco langConstant="eco_Good_Name_TropicalFruits" langTranslation="Frutas tropicais" langInternalDesc="" />
+  <LangEco langConstant="eco_Good_Name_Bread" langTranslation="Pão" langInternalDesc="" />
+  <LangEco langConstant="eco_Good_Name_Meat" langTranslation="Carne" langInternalDesc="" />
+  <LangEco langConstant="eco_Good_Name_FastFood" langTranslation="Comida rápida" langInternalDesc="" />
+  <LangEco langConstant="eco_Good_Name_AnimalFeed" langTranslation="Alimentação animal" langInternalDesc="" />
+  <LangEco langConstant="eco_Good_Name_FittedKitchen" langTranslation="Cozinha equipada" langInternalDesc="" />
+  <LangEco langConstant="eco_Good_Name_Wallpaper" langTranslation="Papel de parede" langInternalDesc="" />
+  <LangEco langConstant="eco_Good_Name_Tools" langTranslation="Ferramentas" langInternalDesc="" />
+  <LangEco langConstant="eco_GoodType_Name_FoodStuff" langTranslation="Comida" langInternalDesc="" />
+  <LangEco langConstant="eco_GoodType_Name_Chemicals" langTranslation="Produtos quimicos" langInternalDesc="" />
+  <LangEco langConstant="eco_GoodType_Name_Furniture" langTranslation="Mobília" langInternalDesc="" />
+  <LangEco langConstant="eco_GoodType_Name_HomeImprovementArticle" langTranslation="Artigo de Melhoria" langInternalDesc="" />
+  <LangEco langConstant="eco_Company_Name_Westhafen" langTranslation="Westhafen" langInternalDesc="" />
+  <LangEco langConstant="eco_Company_Name_EasyTank" langTranslation="Tanque Fácil" langInternalDesc="" />
+  <LangEco langConstant="eco_Company_Name_Osthafen" langTranslation="Osthafen" langInternalDesc="" />
+  <LangEco langConstant="eco_Company_Name_Landhandel" langTranslation="Landhandel" langInternalDesc="" />
+  <LangEco langConstant="eco_Company_Name_Kooperative" langTranslation="Cooperativa" langInternalDesc="" />
+  <LangEco langConstant="eco_Company_Name_TruckServiceKiel" langTranslation="Serviço de Caminhão Kiel" langInternalDesc="" />
+  <LangEco langConstant="eco_DriverLicence_Name_HasEveryDriver" langTranslation="has every driver" langInternalDesc="" />
+  <LangEco langConstant="eco_DriverLicence_Name_A" langTranslation="Curso básico" langInternalDesc="" />
+  <LangEco langConstant="eco_DriverLicence_Name_B" langTranslation="Curso avançado de classe 1" langInternalDesc="" />
+  <LangEco langConstant="eco_DriverLicence_Name_C" langTranslation="Curso avançado de classe 7" langInternalDesc="" />
+  <LangEco langConstant="eco_DriverLicence_Name_D" langTranslation="Curso avançado de petroleiros" langInternalDesc="" />
+  <LangEco langConstant="eco_Employee_IngameDesc_0" langTranslation="Tem mais de 20 anos de experiência na condução de caminhões em estradas alemãs.&#xD;&#xA;&#xD;&#xA;Idade: 53 anos&#xD;&#xA;Família: Casada&#xD;&#xA;Contrato: ilimitado" langInternalDesc="" />
+  <LangEco langConstant="eco_Employee_IngameDesc_1" langTranslation="Terminou sua reciclagem para se tornar um motorista de caminhão profissional e espera agora um contrato duradouro.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Idade: 28 anos&#xD;&#xA;Família: solteiro&#xD;&#xA;Contrato: ilimitado" langInternalDesc="" />
+  <LangEco langConstant="eco_Employee_IngameDesc_2" langTranslation="Trabalhou como motorista na Romênia, mas mudou-se para a Alemanha agora.&#xD;&#xA;&#xD;&#xA;Idade: 32 anos&#xD;&#xA;Família: Casada&#xD;&#xA;Vertrag: ilimitado" langInternalDesc="" />
+  <LangEco langConstant="eco_Employee_IngameDesc_3" langTranslation="Terminou sua carteira de motorista recentemente e busca novos desafios agora.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Idade: 24 anos&#xD;&#xA;Família: solteiro&#xD;&#xA;Contrato: ilimitado" langInternalDesc="" />
+  <LangEco langConstant="eco_Employee_IngameDesc_4" langTranslation="Ele começou sua carreira como mecânico de automóveis e adicionou uma carteira de motorista de caminhão recentemente.&#xD;&#xA;&#xD;&#xA;Idade: 24 anos&#xD;&#xA;Família: solteiro&#xD;&#xA;Contrato: ilimitado" langInternalDesc="" />
+  <LangEco langConstant="eco_Employee_IngameDesc_5" langTranslation="Ele administrou uma empresa na República do Congo e quer dirigir caminhões na Alemanha agora.&#xD;&#xA;&#xD;&#xA;Idade: 36 anos&#xD;&#xA;Família: Divorciada&#xD;&#xA;Contrato: ilimitado" langInternalDesc="" />
+  <LangEco langConstant="eco_Employee_IngameDesc_6" langTranslation="Nascido na Irlanda, mudou-se para a Alemanha há 4 anos e ganhou alguma experiência em várias empresas de camionagem.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Idade: 32 anos&#xD;&#xA;Família: Casada&#xD;&#xA;Contrato: ilimitado" langInternalDesc="" />
+  <LangEco langConstant="eco_Employee_IngameDesc_7" langTranslation="Ele já era um motorista na antiga RDA e é definitivamente casado com a Autobahn alemã.&#xD;&#xA;&#xD;&#xA;Idade: 58 anos&#xD;&#xA;Família: solteiro&#xD;&#xA;Contrato: ilimitado" langInternalDesc="" />
+  <LangEco langConstant="eco_Employee_IngameDesc_8" langTranslation="Kumail terminou sua licença logo após o colegial e dirigiu 5 para uma grande empresa que faliu no ano passado.&#xD;&#xA;&#xD;&#xA;Idade: 26 anos&#xD;&#xA;Família: solteiro&#xD;&#xA;Contrato: ilimitado" langInternalDesc="" />
+  <LangEco langConstant="eco_Employee_IngameDesc_9" langTranslation="Um jogador de mesa apaixonado (TDE) de Hesse. Ele está sempre um pouco gelado.&#xD;&#xA;&#xD;&#xA;Idade: 28 anos&#xD;&#xA;Família: solteiro&#xD;&#xA;Contrato: ilimitado" langInternalDesc="" />
+  <LangEco langConstant="eco_Employee_IngameDesc_10" langTranslation="Ela trabalhou para uma empresa de TI no passado e procura aventuras na estrada agora&#xD;&#xA;&#xD;&#xA;Idade: 32 anos&#xD;&#xA;Família: solteiro&#xD;&#xA;Contrato: ilimitado" langInternalDesc="" />
+  <LangEco langConstant="eco_Employee_IngameDesc_11" langTranslation="Ao lado de seus estudos de teologia, ela sentiu a necessidade de obter uma carteira de motorista de caminhão.&#xD;&#xA;&#xD;&#xA;Idade: 36 anos&#xD;&#xA;Família: solteiro&#xD;&#xA;Contrato: ilimitado" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_senderName_0" langTranslation="Rocco Schädel Consulting" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_senderName_1" langTranslation="MonSack Bank Credit Department" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_0" langTranslation="Parabéns pela sua aquisição" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_1" langTranslation="Transporte concluído" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_2" langTranslation="Transporte abortado" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_3" langTranslation="Aumentando Capacidades" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_4" langTranslation="Flexibilidade é a chave!" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_5" langTranslation="Receitas crescentes" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_6" langTranslation="Expansão" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_7" langTranslation="Caminhão número 3" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_8" langTranslation="Nome estabelecido" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_9" langTranslation="Cinco e sem fim à vista" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_10" langTranslation="Subida íngreme" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_11" langTranslation="Empurre um pouco mais!" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_subject_12" langTranslation="Primeiro milhão!" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_0" langTranslation="Dia bom!&#xD;&#xA;&#xD;&#xA;Meu nome é Rocco Schädel e estou feliz em guiá-lo através dos primeiros passos e em torno dos bancos de areia que estabelecem o seu negócio.&#xD;&#xA;Sua sede e o primeiro caminhão são boas bases para uma empresa de transporte bem-sucedida.&#xD;&#xA;Você deve procurar algumas atribuições em empresas próximas através do menu Logística. Combine vários passeios e reorganize-os para economizar milhas e manter seu caminhão com carga razoável.&#xD;&#xA;Eu entrarei em contato com você assim que você estiver pronto para o próximo passo.&#xD;&#xA;&#xD;&#xA;Cumprimentos,&#xD;&#xA;Rocco Schädel&#xD;&#xA;Consultor sênior&#xD;&#xA;&#xD;&#xA;PS: Não se esqueça de abastecer! :-)" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_1" langTranslation="Querido senhor ou senhora,&#xD;&#xA;&#xD;&#xA;queremos agradecer pela cooperação. Um resumo do trabalho final da sua fatura segue abaixo." langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_2" langTranslation="Querido senhor ou senhora,&#xD;&#xA;&#xD;&#xA;Infelizmente, fomos informados de que você decidiu abortar o trabalho de transporte. Por favor, perdoe que precisamos cobrar taxas convencionais.&#xD;&#xA;Um resumo pode ser encontrado abaixo." langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_3" langTranslation="Olá!&#xD;&#xA;&#xD;&#xA;Aqui estou novamente como prometido entregando a próxima sugestão para você:&#xD;&#xA;A maneira mais barata e eficaz de aumentar suas receitas pode ser obtida aumentando suas capacidades. Você deve pensar em comprar um trailer para o seu caminhão. Continue empurrando. Eu voltarei para você mais tarde.&#xD;&#xA;&#xD;&#xA;Cumprimentos,&#xD;&#xA;Rocco Schädel&#xD;&#xA;Consultor sênior" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_4" langTranslation="Dia bom!&#xD;&#xA;&#xD;&#xA;seus números atuais de negócios apontam para cima. Bom trabalho! Você poderia comprar outro trailer, idealmente não do mesmo tipo para reunir alguma experiência. Cabe a você se você faz ou não.&#xD;&#xA;&#xD;&#xA;Cumprimentos,&#xD;&#xA;Rocco Schädel&#xD;&#xA;Consultor sênior&#xD;&#xA;&#xD;&#xA;PS: Eu sei que você precisa de apenas um trailer até agora, mas você pode atribuí-lo ao seu primeiro funcionário e acreditar em mim: Não vai demorar muito até este ponto!" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_5" langTranslation="Dia bom!&#xD;&#xA;&#xD;&#xA;Apenas escrevendo para um pequeno &quot;Continue empurrando!&quot; Apenas mais alguns transportes e você poderá comprar um segundo caminhão e contratar o primeiro motorista.&#xD;&#xA;Eu vou voltar para você no devido tempo.&#xD;&#xA;&#xD;&#xA;Cumprimentos,&#xD;&#xA;Rocco Schädel&#xD;&#xA;Consultor sênior" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_6" langTranslation="Olá!&#xD;&#xA;&#xD;&#xA;Isso foi rápido! Você deve considerar comprar um segundo caminhão e contratar um motorista assim que tiver fundos suficientes. Depois disso, por favor, não esqueça de atribuir o motorista ao caminhão através do menu Veículos. Tenha também em mente que você precisa planejar as tarefas para o seu empregado também. Há uma lista suspensa no canto superior esquerdo do mapa no menu Logística, onde você pode alternar entre você e seu empregado. Depois que o motorista terminar seus passeios, você receberá uma notificação no sistema de informações do motorista.&#xD;&#xA;&#xD;&#xA;Cumprimentos,&#xD;&#xA;Rocco Schädel&#xD;&#xA;Consultor sênior" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_7" langTranslation="Dia bom!&#xD;&#xA;&#xD;&#xA;tem sido um tempo desde a minha última mensagem, mas você parece executar este negócio sem muita ajuda. De acordo com os números da sua empresa, sugiro que você compre um novo caminhão e um ou dois trailers adicionais e contrate um segundo motorista em breve.&#xD;&#xA;Você está indo bem! Permaneça na faixa!&#xD;&#xA;&#xD;&#xA;Cumprimentos,&#xD;&#xA;Rocco Schädel&#xD;&#xA;Consultor sênior" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_8" langTranslation="Olá,&#xD;&#xA;&#xD;&#xA;três é bom, quatro é melhor, portanto, um quarto caminhão e motorista não podem ser uma coisa ruim. Btw. você quase chegou a meio milhão de receita! Estou muito orgulhoso de você.&#xD;&#xA;&#xD;&#xA;Cumprimentos,&#xD;&#xA;Rocco Schädel&#xD;&#xA;Consultor sênior" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_9" langTranslation="Dia bom,&#xD;&#xA;&#xD;&#xA;expansão é importante e você já ultrapassou a marca de meio milhão.&#xD;&#xA;Hora do quinto caminhão, o que você acha?&#xD;&#xA;&#xD;&#xA;Cumprimentos,&#xD;&#xA;Rocco Schädel&#xD;&#xA;Consultor sênior" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_10" langTranslation="Dia bom,&#xD;&#xA;&#xD;&#xA;sua receita está quase explodindo e está crescendo mais rapidamente com cada novo caminhão e motorista. Continue empurrando e expanda sua frota o mais rápido possível!&#xD;&#xA;&#xD;&#xA;Cumprimentos,&#xD;&#xA;Rocco Schädel&#xD;&#xA;Consultor sênior&#xD;&#xA;&#xD;&#xA;PS: Você quase chegou a três quartos de um milhão, possivelmente você já ganhou isso quando você está lendo este e-mail!" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_11" langTranslation="Dia bom,&#xD;&#xA;&#xD;&#xA;750k mark foi passado. Continue empurrando e expanda sua frota ainda mais e o milhão é uma coisa certa!&#xD;&#xA;Eu entrarei em contato com você em breve.&#xD;&#xA;&#xD;&#xA;Cumprimentos,&#xD;&#xA;Rocco Schädel&#xD;&#xA;Consultor sênior" langInternalDesc="" />
+  <LangEco langConstant="eco_Mail_message_12" langTranslation="Dia bom,&#xD;&#xA;&#xD;&#xA;hoje é o seu dia feliz porque você chegou a um milhão de receitas, mas isso também significa um adeus para mim. Quero agradecer-lhe pela boa cooperação e desejo-lhe tudo de bom na estrada.&#xD;&#xA;Apenas no caso de algo mudar drasticamente eu vou voltar para você, prometido!&#xD;&#xA;&#xD;&#xA;Atenciosamente e todo o sucesso que você precisa!&#xD;&#xA;Rocco Schädel&#xD;&#xA;Consultor sênior" langInternalDesc="" />
+  <LangEco langConstant="eco_Region_Name_SchleswigHolstein" langTranslation="Schleswig Holstein" langInternalDesc="" />
+  <LangEco langConstant="eco_Region_Name_Hamburg" langTranslation="Hamburgo" langInternalDesc="" />
+  <LangEco langConstant="eco_Region_Name_Bremen" langTranslation="Bremen" langInternalDesc="" />
+  <LangEco langConstant="eco_Region_Name_Niedersachsen" langTranslation="Niedersachsen" langInternalDesc="" />
+  <LangEco langConstant="eco_Region_Name_MecklenburgVorpommern" langTranslation="Mecklenburg-Vorpommern" langInternalDesc="" />
+  <LangEco langConstant="eco_Region_Name_SachsenAnhalt" langTranslation="Sachsen-Anhalt" langInternalDesc="" />
+  <LangEco langConstant="eco_Region_Name_Berlin" langTranslation="Berlin" langInternalDesc="" />
+  <LangEco langConstant="eco_Truck_Name_A" langTranslation="TGX 2016 4x2 (Caixa-Forte)" langInternalDesc="" />
+  <LangEco langConstant="eco_Truck_Name_B" langTranslation="TGX 2016 4x2 (Semi-Trator)" langInternalDesc="" />
+  <LangEco langConstant="eco_Truck_Name_C" langTranslation="R 2013 4x2 (Semi-Trator)" langInternalDesc="" />
+  <LangEco langConstant="eco_Truck_Name_D" langTranslation="R 2013 4x2 (Caixa-Forte)" langInternalDesc="" />
+  <LangEco langConstant="eco_Truck_Name_E" langTranslation="TGX 2016 6x2 (Caixa-Forte)" langInternalDesc="" />
+  <LangEco langConstant="eco_Truck_Name_F" langTranslation="R 2013 6x2 (Caixa-Forte)" langInternalDesc="" />
+  <LangEco langConstant="eco_Truck_IngameDesc_A" langTranslation="O MAN TGX tem tudo a bordo que sua empresa precisa para torná-lo mais bem-sucedido e para acelerar o pulso de um caminhoneiro: altos níveis de condução e conforto, e muito torque, combinado com baixo consumo de combustível. Os sistemas padrão e opcional de assistência ao motorista e eficiência estão à disposição para torná-lo ainda mais econômico e seguro na estrada, em um caminhão tão individual quanto o seu negócio." langInternalDesc="" />
+  <LangEco langConstant="eco_Truck_IngameDesc_B" langTranslation="IngameDesc Truck B" langInternalDesc="" />
+  <LangEco langConstant="eco_Truck_IngameDesc_C" langTranslation="Os caminhões da série R combinam o desempenho do V8 com excelentes níveis de conforto e equipamentos. Eles são o companheiro de longa distância ideal, ajudando você a cumprir os horários mais exigentes, depois de algum tempo." langInternalDesc="" />
+  <LangEco langConstant="eco_Truck_IngameDesc_D" langTranslation="IngameDesc Truck D" langInternalDesc="" />
+  <LangEco langConstant="eco_TruckType_Name_A" langTranslation="Caixa Forte" langInternalDesc="" />
+  <LangEco langConstant="eco_TruckType_Name_B" langTranslation="Semi" langInternalDesc="" />
+  <LangEco langConstant="eco_TruckType_Name_C" langTranslation="TruckType C" langInternalDesc="" />
+  <LangEco langConstant="eco_Trailer_Name_A" langTranslation="2-KA (Reboque cubo com barra de tração)" langInternalDesc="" />
+  <LangEco langConstant="eco_Trailer_Name_B" langTranslation="3-KS (Semi reboque cubo)" langInternalDesc="" />
+  <LangEco langConstant="eco_Trailer_Name_C" langTranslation="2-DO+3-KS (Gigaliner)" langInternalDesc="" />
+  <LangEco langConstant="eco_Trailer_Name_D" langTranslation="2-KT (Reboque cubo BRDF)" langInternalDesc="" />
+  <LangEco langConstant="eco_Trailer_IngameDesc_A" langTranslation="O JZ 2-KA é um reboque de carroceria com cubo de tração de chassi confiável e econômico e o complemento ideal para veículos motorizados de cubo. Sua construção de estrutura clássica torna acessível e mantém os custos de manutenção baixos, oferecendo rigidez máxima." langInternalDesc="" />
+  <LangEco langConstant="eco_Trailer_IngameDesc_B" langTranslation="O JZ 3-KS é um semi-reboque cubo confiável e econômico e a primeira escolha de qualquer tipo de transporte que precise de um semi-reboque flexível com o máximo de rigidez e alta relação custo-benefício." langInternalDesc="" />
+  <LangEco langConstant="eco_Trailer_IngameDesc_C" langTranslation="A combinação do JZ 2-DO e do JZ 3-KS marca a primeira tentativa do Fa. JZ Fahrzeugbau para conquistar uma fatia do crescente mercado de gigaliner. Esta combinação consiste no comprovado JZ 3-KS banhado no novíssimo JZ 2-DO. Juntamente com um veículo motorizado adequado, você terá o máximo de capacidade de carga e comprimento total." langInternalDesc="" />
+  <LangEco langConstant="eco_Trailer_IngameDesc_D" langTranslation="O JZ 2-KT é a alternativa perfeita para o JZ 2-KA se manejar e pequeno raio de curvatura. Sua construção de estrutura clássica torna acessível e mantém os custos de manutenção baixos, oferecendo rigidez máxima." langInternalDesc="" />
+  <LangEco langConstant="eco_TrailerType_Name_A" langTranslation="Caixa de reboque" langInternalDesc="" />
+  <LangEco langConstant="eco_TrailerType_Name_B" langTranslation="Semi caixa de reboque" langInternalDesc="" />
+  <LangTut langConstant="tut_Part0" langTranslation="Embarque no seu caminhão" langInternalDesc="" />
+  <LangTut langConstant="tut_Part0_Action0" langTranslation="Interação" langInternalDesc="" />
+  <LangTut langConstant="tut_Part0_Action1" langTranslation="" langInternalDesc="" />
+  <LangTut langConstant="tut_Part1" langTranslation="Saia do seu caminhão e caminhe até o escritório de frete" langInternalDesc="" />
+  <LangTut langConstant="tut_Part1_Action0" langTranslation="Saia" langInternalDesc="" />
+  <LangTut langConstant="tut_Part1_Action1" langTranslation="" langInternalDesc="" />
+  <LangTut langConstant="tut_Part2" langTranslation="Caminhe até o escritório de frete" langInternalDesc="" />
+  <LangTut langConstant="tut_Part2_Action0" langTranslation="" langInternalDesc="" />
+  <LangTut langConstant="tut_Part2_Action1" langTranslation="" langInternalDesc="" />
+  <LangTut langConstant="tut_Part3" langTranslation="Estacione seu caminhão na marcação" langInternalDesc="" />
+  <LangTut langConstant="tut_Part3_Action0" langTranslation="" langInternalDesc="" />
+  <LangTut langConstant="tut_Part3_Action1" langTranslation="" langInternalDesc="" />
+  <LangTut langConstant="tut_Part4" langTranslation="ativar o estado de ignição 1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part4_Action0" langTranslation="Ignição" langInternalDesc="" />
+  <LangTut langConstant="tut_Part4_Action1" langTranslation="" langInternalDesc="" />
+  <LangTut langConstant="tut_Part5" langTranslation="ativar o estado de ignição 2" langInternalDesc="" />
+  <LangTut langConstant="tut_Part5_Action0" langTranslation="Ignição" langInternalDesc="" />
+  <LangTut langConstant="tut_Part5_Action1" langTranslation="" langInternalDesc="" />
+  <LangTut langConstant="tut_Part6" langTranslation="Soltar freio de mão" langInternalDesc="" />
+  <LangTut langConstant="tut_Part6_Action0" langTranslation="freio" langInternalDesc="" />
+  <LangTut langConstant="tut_Part6_Action1" langTranslation="liberar freio de mão" langInternalDesc="" />
+  <LangTut langConstant="tut_Part7" langTranslation="Ligar o motor" langInternalDesc="" />
+  <LangTut langConstant="tut_Part7_Action0" langTranslation="Ignição" langInternalDesc="" />
+  <LangTut langConstant="tut_Part7_Action1" langTranslation="" langInternalDesc="" />
+  <LangTut langConstant="tut_Part8" langTranslation="Volte para o neutro" langInternalDesc="" />
+  <LangTut langConstant="tut_Part8_Action0" langTranslation="Engrenagem para baixo" langInternalDesc="" />
+  <LangTut langConstant="tut_Part8_Action1" langTranslation="" langInternalDesc="" />
+  <LangTut langConstant="tut_Part9" langTranslation="Volte para o neutro" langInternalDesc="" />
+  <LangTut langConstant="tut_Part9_Action0" langTranslation="Engrenar" langInternalDesc="" />
+  <LangTut langConstant="tut_Part9_Action1" langTranslation="" langInternalDesc="" />
+  <LangTut langConstant="tut_Part10" langTranslation="Shift to Drive or Reverse" langInternalDesc="" />
+  <LangTut langConstant="tut_Part10_Action0" langTranslation="Gear up" langInternalDesc="" />
+  <LangTut langConstant="tut_Part10_Action1" langTranslation="Gear down" langInternalDesc="" />
+  <LangTut langConstant="tut_Part11" langTranslation="tut_Part11" langInternalDesc="" />
+  <LangTut langConstant="tut_Part11_Action0" langTranslation="tut_Part11_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part11_Action1" langTranslation="tut_Part11_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part12" langTranslation="tut_Part12" langInternalDesc="" />
+  <LangTut langConstant="tut_Part12_Action0" langTranslation="tut_Part12_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part12_Action1" langTranslation="tut_Part12_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part13" langTranslation="tut_Part13" langInternalDesc="" />
+  <LangTut langConstant="tut_Part13_Action0" langTranslation="tut_Part13_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part13_Action1" langTranslation="tut_Part13_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part14" langTranslation="tut_Part14" langInternalDesc="" />
+  <LangTut langConstant="tut_Part14_Action0" langTranslation="tut_Part14_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part14_Action1" langTranslation="tut_Part14_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part15" langTranslation="tut_Part15" langInternalDesc="" />
+  <LangTut langConstant="tut_Part15_Action0" langTranslation="tut_Part15_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part15_Action1" langTranslation="tut_Part15_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part16" langTranslation="tut_Part16" langInternalDesc="" />
+  <LangTut langConstant="tut_Part16_Action0" langTranslation="tut_Part16_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part16_Action1" langTranslation="tut_Part16_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part17" langTranslation="tut_Part17" langInternalDesc="" />
+  <LangTut langConstant="tut_Part17_Action0" langTranslation="tut_Part17_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part17_Action1" langTranslation="tut_Part17_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part18" langTranslation="tut_Part18" langInternalDesc="" />
+  <LangTut langConstant="tut_Part18_Action0" langTranslation="tut_Part18_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part18_Action1" langTranslation="tut_Part18_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part19" langTranslation="tut_Part19" langInternalDesc="" />
+  <LangTut langConstant="tut_Part19_Action0" langTranslation="tut_Part19_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part19_Action1" langTranslation="tut_Part19_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part20" langTranslation="tut_Part20" langInternalDesc="" />
+  <LangTut langConstant="tut_Part20_Action0" langTranslation="tut_Part20_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part20_Action1" langTranslation="tut_Part20_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part21" langTranslation="tut_Part21" langInternalDesc="" />
+  <LangTut langConstant="tut_Part21_Action0" langTranslation="tut_Part21_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part21_Action1" langTranslation="tut_Part21_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part22" langTranslation="tut_Part22" langInternalDesc="" />
+  <LangTut langConstant="tut_Part22_Action0" langTranslation="tut_Part22_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part22_Action1" langTranslation="tut_Part22_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part23" langTranslation="tut_Part23" langInternalDesc="" />
+  <LangTut langConstant="tut_Part23_Action0" langTranslation="tut_Part23_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part23_Action1" langTranslation="tut_Part23_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part24" langTranslation="tut_Part24" langInternalDesc="" />
+  <LangTut langConstant="tut_Part24_Action0" langTranslation="tut_Part24_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part24_Action1" langTranslation="tut_Part24_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part25" langTranslation="tut_Part25" langInternalDesc="" />
+  <LangTut langConstant="tut_Part25_Action0" langTranslation="tut_Part25_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part25_Action1" langTranslation="tut_Part25_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part26" langTranslation="tut_Part26" langInternalDesc="" />
+  <LangTut langConstant="tut_Part26_Action0" langTranslation="tut_Part26_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part26_Action1" langTranslation="tut_Part26_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part27" langTranslation="tut_Part27" langInternalDesc="" />
+  <LangTut langConstant="tut_Part27_Action0" langTranslation="tut_Part27_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part27_Action1" langTranslation="tut_Part27_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part28" langTranslation="tut_Part28" langInternalDesc="" />
+  <LangTut langConstant="tut_Part28_Action0" langTranslation="tut_Part28_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part28_Action1" langTranslation="tut_Part28_Action1" langInternalDesc="" />
+  <LangTut langConstant="tut_Part29" langTranslation="tut_Part29" langInternalDesc="" />
+  <LangTut langConstant="tut_Part29_Action0" langTranslation="tut_Part29_Action0" langInternalDesc="" />
+  <LangTut langConstant="tut_Part29_Action1" langTranslation="tut_Part29_Action1" langInternalDesc="" />
+  <LangWarning langConstant="warning_Part0" langTranslation="A caixa de engrenagens não está em ponto morto!" langInternalDesc="" />
+  <LangWarning langConstant="warning_Part1" langTranslation="A caixa de engrenagens está no modo de classificação!" langInternalDesc="" />
+  <LangWarning langConstant="warning_Part2" langTranslation="Você está com pouco combustível!" langInternalDesc="" />
+  <LangWarning langConstant="warning_Part3" langTranslation="Adblu está quase vazio!" langInternalDesc="" />
+  <LangWarning langConstant="warning_Part4" langTranslation="Pressão de freio baixa!" langInternalDesc="" />
+  <LangWarning langConstant="warning_Part5" langTranslation="warning_Part5" langInternalDesc="" />
+  <LangWarning langConstant="warning_Part6" langTranslation="warning_Part6" langInternalDesc="" />
+  <LangWarning langConstant="warning_Part7" langTranslation="warning_Part7" langInternalDesc="" />
+  <LangWarning langConstant="warning_Part8" langTranslation="warning_Part8" langInternalDesc="" />
+  <LangWarning langConstant="warning_Part9" langTranslation="warning_Part9" langInternalDesc="" />
+</OTRLanguage>
