@@ -92,6 +92,8 @@
   <LangUI langConstant="menuCompanyLogistics_btn_AvailableAssignment_Previous" langTranslation="Anterior" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_btn_AvailableAssignment_Next" langTranslation="Próximo" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_AvailableAssignment_Title" langTranslation="ATRIBUIÇÕES DISPONÍVEIS" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_HeadquarterAssignment_Title" langTranslation="SET HEADQUARTER POSITION" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_StandaloneTrailerAssignment_Title" langTranslation="STANDALONE TRAILER POSITION" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_Warning_SelectedDriverHasNoTruck" langTranslation="Motorista selecionado não tem caminhão" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_Warning_CompanyHasNoAvailalableAssignments" langTranslation="A Empresa não tem atribuições disponíveis" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_Warning_SemiTruckSelectedButNoTrailer" langTranslation="Caminhão semi selecionado, mas nenhum trailer" langInternalDesc="" />
@@ -276,7 +278,7 @@
   <LangUI langConstant="menuOptions_Audio_text_Volume_VCA_Truck" langTranslation="Volume do caminhão" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Audio_text_Accept" langTranslation="Aceitar" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Audio_text_Cancel" langTranslation="Cancelar" langInternalDesc="" />
-  <LangUI langConstant="menuOptions_Audio_text_Hint" langTranslation="DICA&#xD;&#xA;&#xD;&#xA;Alterar volumes separadamente" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Audio_text_Hint" langTranslation="DICA&#xD;&#xA;&#xD;&#xA;Altera volumes separadamente" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Graphics_text_Title" langTranslation="Gráficos" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Graphics_text_Resolution" langTranslation="Resolução" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Graphics_text_VSync" langTranslation="Sincronismo Vertical(VSync)" langInternalDesc="" />
@@ -336,10 +338,10 @@
   <LangUI langConstant="menuOptions_Graphics_text_autoExposure" langTranslation="Exposição automática" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Graphics_text_autoExposure_Yes" langTranslation="Ligado" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Graphics_text_autoExposure_No" langTranslation="Desligado" langInternalDesc="" />
-  <LangUI langConstant="menuOptions_Graphics_text_vignette" langTranslation="Efeito Vignette" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_vignette" langTranslation="Vinheta" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Graphics_text_vignette_Yes" langTranslation="Ligado" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Graphics_text_vignette_No" langTranslation="Desligado" langInternalDesc="" />
-  <LangUI langConstant="menuOptions_Graphics_text_bloom" langTranslation="Efeito Bloom" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Graphics_text_bloom" langTranslation="Flor" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Graphics_text_bloom_Yes" langTranslation="Ligado" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Graphics_text_bloom_No" langTranslation="Desligado" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Graphics_text_farClipPlane" langTranslation="Distância da Visão" langInternalDesc="" />
@@ -497,7 +499,7 @@
   <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_DescriptionCanNotBeBlank" langTranslation="Descrição não pode estar em branco" langInternalDesc="" />
   <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_PreviewImageNeeded" langTranslation="Você precisa de uma imagem de visualização para Oficina Steam" langInternalDesc="" />
   <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_ThereIsNoWorkshopitemToUpdate" langTranslation="Não há nenhum item na oficina steam para atualizar." langInternalDesc="" />
-  <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_IsNotCurrentSteamUser" langTranslation="Your are not the SteamUser who uploaded this Worksop Item." langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_IsNotCurrentSteamUser" langTranslation="Você não é o usuário do Steam que fez o upload deste item de oficina." langInternalDesc="" />
   <LangUI langConstant="menuQuickTips_text_Title" langTranslation="Dicas rápidas" langInternalDesc="" />
   <LangUI langConstant="menuQuickTips_text_QuickTips" langTranslation="Caminhe até a porta do motorista e clique com o botão esquerdo para entrar no caminhão.&#xD;&#xA;&#xD;&#xA;Para começar, pressione 4 (tecla padrão) várias vezes até que o motor esteja funcionando.&#xD;&#xA;&#xD;&#xA;Coloque o seletor de marcha na posição pressionando t (tecla padrão).&#xD;&#xA;&#xD;&#xA;Caso esteja preso na engrenagem, você está no modo de classificação, volte para D pressionando R (tecla padrão).&#xD;&#xA;&#xD;&#xA;Se você não tiver certeza, verifique a alavanca para baixo à direita do assento do motorista.&#xD;&#xA;&#xD;&#xA;Pressione espaço (chave padrão) para liberar o freio de estacionamento.&#xD;&#xA;&#xD;&#xA;No caso de você bater e rolar, você pode colocar seu caminhão de volta, pressionando F9 (chave padrão).&#xD;&#xA;&#xD;&#xA;Use o retardador com Q (chave padrão) com freqüência. Caso contrário, você perderá muita pressão de ar e os freios travarão.&#xD;&#xA;&#xD;&#xA;Verifique a ligação das teclas no menu de opções para ver todas as funções.&#xD;&#xA;&#xD;&#xA;Todos os interruptores e alavancas podem ser operados clicando com o botão esquerdo e direito sobre eles." langInternalDesc="" />
   <LangUI langConstant="menuQuickTips_btn_Back" langTranslation="Voltar" langInternalDesc="" />
@@ -524,12 +526,28 @@
   <LangMsgBox langConstant="msgboxAcceptAssignment_text_Good" langTranslation="Boa" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAcceptAssignment_text_Price" langTranslation="Preço" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAcceptAssignment_text_Reputation" langTranslation="Reputação" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptHeadquarterAssignment_text_Caption" langTranslation="Adicionar sede" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptHeadquarterAssignment_text_Message" langTranslation="Adicionar sede à rota?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptHeadquarterAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptHeadquarterAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptStandaloneTrailerAssignment_text_Caption" langTranslation="Adicionar reboque independente" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptStandaloneTrailerAssignment_text_Message" langTranslation="Adicionar reboqueIndependente para a rota?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptStandaloneTrailerAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptStandaloneTrailerAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortAssignment_text_Caption" langTranslation="Cancelar tarefa" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortAssignment_text_Message" langTranslation="Cancelar tarefa?" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortAssignment_text_ReputationDeduction" langTranslation="Conclusão da reputação" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortAssignment_text_ContractPenalty" langTranslation="Penalidade de contrato" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortHeadquarterAssignment_text_Caption" langTranslation="Remover a posição da sede" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortHeadquarterAssignment_text_Message" langTranslation="Remover a posição da sede?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortHeadquarterAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortHeadquarterAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortStandaloneTrailerAssignment_text_Caption" langTranslation="Remover a posição do reboque" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortStandaloneTrailerAssignment_text_Message" langTranslation="Remover a posição do reboque independente?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortStandaloneTrailerAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortStandaloneTrailerAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_text_Caption" langTranslation="Resumo da tarefa" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_btn_OK" langTranslation="OK" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_text_Distance" langTranslation="Distância" langInternalDesc="" />
@@ -551,12 +569,20 @@
   <LangMsgBox langConstant="msgboxResetInput_text_No" langTranslation="Não" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTruck_text_Caption" langTranslation="Comprar Caminhão" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTruck_text_Message" langTranslation="Comprar Caminhão?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTruck_text_DeliverTo" langTranslation="entregar para a cidade" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTruck_btn_Yes" langTranslation="Sim" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTruck_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTruck_ErrorMessage_PurchaseAgreementMustBeSigned" langTranslation="Contrato de compra deve ser assinado" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTruck_ErrorMessage_ThereAreObjectsInTrigger" langTranslation="Por favor, afaste seu caminhão" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTruck_btn_ErrorMessage_Accept" langTranslation="Aceitar" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTrailer_text_Caption" langTranslation="Comprar Reboque" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTrailer_text_Message" langTranslation="Comprar Reboque?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTrailer_text_DeliverTo" langTranslation="entregar para a cidade" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTrailer_btn_Yes" langTranslation="Sim" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTrailer_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTrailer_ErrorMessage_PurchaseAgreementMustBeSigned" langTranslation="Contrato de compra deve ser assinado" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTrailer_ErrorMessage_ThereAreObjectsInTrigger" langTranslation="Por favor, afaste seu reboque" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTrailer_btn_ErrorMessage_Accept" langTranslation="Accept" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxSwitchTruck_text_Caption" langTranslation="Trocar Caminhão" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxSwitchTruck_text_Message" langTranslation="Trocar Caminhão?" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxSwitchTruck_btn_Yes" langTranslation="Sim" langInternalDesc="" />
@@ -1005,7 +1031,7 @@
   <LangEco langConstant="eco_Company_Name_Landhandel" langTranslation="Landhandel" langInternalDesc="" />
   <LangEco langConstant="eco_Company_Name_Kooperative" langTranslation="Cooperativa" langInternalDesc="" />
   <LangEco langConstant="eco_Company_Name_TruckServiceKiel" langTranslation="Serviço de Caminhão Kiel" langInternalDesc="" />
-  <LangEco langConstant="eco_DriverLicence_Name_HasEveryDriver" langTranslation="has every driver" langInternalDesc="" />
+  <LangEco langConstant="eco_DriverLicence_Name_HasEveryDriver" langTranslation="tem todos os motoristas" langInternalDesc="" />
   <LangEco langConstant="eco_DriverLicence_Name_A" langTranslation="Curso básico" langInternalDesc="" />
   <LangEco langConstant="eco_DriverLicence_Name_B" langTranslation="Curso avançado de classe 1" langInternalDesc="" />
   <LangEco langConstant="eco_DriverLicence_Name_C" langTranslation="Curso avançado de classe 7" langInternalDesc="" />
@@ -1110,9 +1136,9 @@
   <LangTut langConstant="tut_Part9" langTranslation="Volte para o neutro" langInternalDesc="" />
   <LangTut langConstant="tut_Part9_Action0" langTranslation="Engrenar" langInternalDesc="" />
   <LangTut langConstant="tut_Part9_Action1" langTranslation="" langInternalDesc="" />
-  <LangTut langConstant="tut_Part10" langTranslation="Shift to Drive or Reverse" langInternalDesc="" />
-  <LangTut langConstant="tut_Part10_Action0" langTranslation="Gear up" langInternalDesc="" />
-  <LangTut langConstant="tut_Part10_Action1" langTranslation="Gear down" langInternalDesc="" />
+  <LangTut langConstant="tut_Part10" langTranslation="Mude para Dirigir ou Inverter" langInternalDesc="" />
+  <LangTut langConstant="tut_Part10_Action0" langTranslation="Subir Marcha" langInternalDesc="" />
+  <LangTut langConstant="tut_Part10_Action1" langTranslation="Reduzir Marcha" langInternalDesc="" />
   <LangTut langConstant="tut_Part11" langTranslation="tut_Part11" langInternalDesc="" />
   <LangTut langConstant="tut_Part11_Action0" langTranslation="tut_Part11_Action0" langInternalDesc="" />
   <LangTut langConstant="tut_Part11_Action1" langTranslation="tut_Part11_Action1" langInternalDesc="" />
@@ -1172,7 +1198,7 @@
   <LangTut langConstant="tut_Part29_Action1" langTranslation="tut_Part29_Action1" langInternalDesc="" />
   <LangWarning langConstant="warning_Part0" langTranslation="A caixa de engrenagens não está em ponto morto!" langInternalDesc="" />
   <LangWarning langConstant="warning_Part1" langTranslation="A caixa de engrenagens está no modo de classificação!" langInternalDesc="" />
-  <LangWarning langConstant="warning_Part2" langTranslation="Você está com pouco combustível!" langInternalDesc="" />
+  <LangWarning langConstant="warning_Part2" langTranslation="Você está com pouco combustível!" langInternalDesc="ALERTA DE COMBUSTÍVEL" />
   <LangWarning langConstant="warning_Part3" langTranslation="Adblu está quase vazio!" langInternalDesc="" />
   <LangWarning langConstant="warning_Part4" langTranslation="Pressão de freio baixa!" langInternalDesc="" />
   <LangWarning langConstant="warning_Part5" langTranslation="warning_Part5" langInternalDesc="" />
