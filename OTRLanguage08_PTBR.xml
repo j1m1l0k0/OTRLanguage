@@ -67,7 +67,7 @@
   <LangUI langConstant="menuCompanyOverview_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
   <LangUI langConstant="menuCompanyOverview_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
   <LangUI langConstant="menuCompanyOverview_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyOverview_text_Day" langTranslation="Day" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_Day" langTranslation="DIA" langInternalDesc="" />
   <LangUI langConstant="menuCompanyOverview_btn_DeleteMail" langTranslation="Excluir email" langInternalDesc="" />
   <LangUI langConstant="menuCompanyOverview_text_Summary_Caption" langTranslation="Resumo" langInternalDesc="" />
   <LangUI langConstant="menuCompanyOverview_text_Summary_VehiclesCaption" langTranslation="Veículos" langInternalDesc="" />
@@ -85,7 +85,7 @@
   <LangUI langConstant="menuCompanyLogistics_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyLogistics_text_Day" langTranslation="Day" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_Day" langTranslation="DIA" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_btn_AcceptedAssignment_Pickup" langTranslation="Pegar" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_btn_AcceptedAssignment_Delivery" langTranslation="Entrega" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_btn_AcceptedAssignment_Previous" langTranslation="Anterior" langInternalDesc="" />
@@ -105,7 +105,7 @@
   <LangUI langConstant="menuCompanyEmployee_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyEmployee_text_Day" langTranslation="Day" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_text_Day" langTranslation="DIA" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_text_ListAvailableEmployees_Title" langTranslation="Empregados Disponíveis" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_btn_ListAvailableEmployees_Fire" langTranslation="Empregado de Fogo" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_btn_ListAvailableEmployees_GetDriverLicence" langTranslation="Obter permissão para dirigir" langInternalDesc="" />
@@ -119,7 +119,7 @@
   <LangUI langConstant="menuCompanyVehicles_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
   <LangUI langConstant="menuCompanyVehicles_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
   <LangUI langConstant="menuCompanyVehicles_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyVehicles_text_Day" langTranslation="Day" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_text_Day" langTranslation="DIA" langInternalDesc="" />
   <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_TitleTrucks" langTranslation="Caminhões" langInternalDesc="" />
   <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_TitleTrailer" langTranslation="Reboque" langInternalDesc="" />
   <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_ChangeTrailer" langTranslation="Mudar Reboque" langInternalDesc="" />
@@ -159,7 +159,7 @@
   <LangUI langConstant="menuCompanyFinances_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
   <LangUI langConstant="menuCompanyFinances_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
   <LangUI langConstant="menuCompanyFinances_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyFinances_text_Day" langTranslation="Day" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_Day" langTranslation="DIA" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Game_text_Title" langTranslation="Jogo" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Game_text_Language" langTranslation="Idioma" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Game_text_showTrigger" langTranslation="Mostrar gatilhos" langInternalDesc="" />
