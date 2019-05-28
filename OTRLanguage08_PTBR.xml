@@ -13,7 +13,7 @@
   <LangUI langConstant="menuMain_btn_SteamWorkshop_Overview" langTranslation="Oficina Steam" langInternalDesc="" />
   <LangUI langConstant="menuMain_btn_Quit" langTranslation="Sair" langInternalDesc="" />
   <LangUI langConstant="menuMain_text_ChangeLog_Caption" langTranslation="Log de alterações" langInternalDesc="" />
-  <LangUI langConstant="menuMain_text_ChangeLog_Message" langTranslation="Jogabilidade:&#xD;&#xA;- Chassis de caixa rígida TGX 6x2 adicionado&#xD;&#xA;- Chassi rígido de caixa Scania R 6x2&#xD;&#xA;- eixo traseiro direcionado para chassis 6x2&#xD;&#xA;&#xD;&#xA;Gráficos:&#xD;&#xA;- novas imagens nos menus dos veículos&#xD;&#xA;- proporções de fundo worldmap retrabalhadas&#xD;&#xA;- adicionada a previsão da estrada para as próximas cidades Frankfurt, Stuttgart e Leipzig para o worldmap&#xD;&#xA;&#xD;&#xA;Conserta:&#xD;&#xA;- removido objetos desnecessários do TGX rígido&#xD;&#xA;- fixou o material leve do reboque da barra de acoplamento&#xD;&#xA;- consertou outro prédio em pé perto da estrada em Duisburg&#xD;&#xA;- mau comportamento dos diversos eixos dos reboques&#xD;&#xA;- removeu a habilidade do jogador de cutucar o caminhão depois de sair" langInternalDesc="" />
+  <LangUI langConstant="menuMain_text_ChangeLog_Message" langTranslation="Jogabilidade&#xD;&#xA;&#xD;&#xA;- sem mais sobrecarga&#xD;&#xA;- os motoristas não podem mais ser demitidos quando são atribuídos a um caminhão&#xD;&#xA;&#xD;&#xA;Mapa&#xD;&#xA;&#xD;&#xA;- preparou A7 até Kirchheim / Hattenbach&#xD;&#xA;&#xD;&#xA;Correções&#xD;&#xA;&#xD;&#xA;- Corrigido o colapso do jogo devido a Force Feedback DLLs falharam ao carregar&#xD;&#xA;- IR de faixa fixa&#xD;&#xA;- rota fixa desaparecendo ao dirigir para o seu HQ&#xD;&#xA;- Corrigido cálculo de rota para trailers&#xD;&#xA;- visuais fixos de várias caixas de mensagem&#xD;&#xA;- opções de bloom e vignette fixas&#xD;&#xA;- resolveu um problema causado pela atribuição de um driver a outro caminhão de drivers&#xD;&#xA;- Corrigido a velocidade dos seus motoristas contratados&#xD;&#xA;- desova fixa de vários veículos próprios na mesma posição quando você remove dois ou mais motoristas de seus veículos ao mesmo tempo sem sair do menu" langInternalDesc="" />
   <LangUI langConstant="menuMain_text_ChangeLog_DoNotShowAgain" langTranslation="Não mostre esta mensagem novamente" langInternalDesc="" />
   <LangUI langConstant="menuMain_btn_ChangeLog_Close" langTranslation="Close" langInternalDesc="" />
   <LangUI langConstant="menuCredits_text_Title" langTranslation="CRÉDITOS" langInternalDesc="" />
@@ -67,7 +67,7 @@
   <LangUI langConstant="menuCompanyOverview_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
   <LangUI langConstant="menuCompanyOverview_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
   <LangUI langConstant="menuCompanyOverview_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyOverview_text_Day" langTranslation="DIA" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyOverview_text_Day" langTranslation="Day" langInternalDesc="" />
   <LangUI langConstant="menuCompanyOverview_btn_DeleteMail" langTranslation="Excluir email" langInternalDesc="" />
   <LangUI langConstant="menuCompanyOverview_text_Summary_Caption" langTranslation="Resumo" langInternalDesc="" />
   <LangUI langConstant="menuCompanyOverview_text_Summary_VehiclesCaption" langTranslation="Veículos" langInternalDesc="" />
@@ -85,7 +85,7 @@
   <LangUI langConstant="menuCompanyLogistics_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyLogistics_text_Day" langTranslation="DIA" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_Day" langTranslation="Dia" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_btn_AcceptedAssignment_Pickup" langTranslation="Pegar" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_btn_AcceptedAssignment_Delivery" langTranslation="Entrega" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_btn_AcceptedAssignment_Previous" langTranslation="Anterior" langInternalDesc="" />
@@ -94,18 +94,19 @@
   <LangUI langConstant="menuCompanyLogistics_btn_AvailableAssignment_Previous" langTranslation="Anterior" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_btn_AvailableAssignment_Next" langTranslation="Próximo" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_AvailableAssignment_Title" langTranslation="ATRIBUIÇÕES DISPONÍVEIS" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyLogistics_text_HeadquarterAssignment_Title" langTranslation="DEFINIR POSIÇÃO DA SEDE" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyLogistics_text_StandaloneTrailerAssignment_Title" langTranslation="POSIÇÃO DE REBOQUE SOZINHO" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_HeadquarterAssignment_Title" langTranslation="SET HEADQUARTER POSITION" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_StandaloneTrailerAssignment_Title" langTranslation="STANDALONE TRAILER POSITION" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_Warning_SelectedDriverHasNoTruck" langTranslation="Motorista selecionado não tem caminhão" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_Warning_CompanyHasNoAvailalableAssignments" langTranslation="A Empresa não tem atribuições disponíveis" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_Warning_SemiTruckSelectedButNoTrailer" langTranslation="Caminhão semi selecionado, mas nenhum trailer" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_Warning_TruckAndTrailerIsOverloaded" langTranslation="Caminhão / reboque está sobrecarregado" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_text_Title" langTranslation="Empregado" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_btn_Overview" langTranslation="Visão geral" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_btn_Logistics" langTranslation="Logística" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyEmployee_text_Day" langTranslation="DIA" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyEmployee_text_Day" langTranslation="Dia" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_text_ListAvailableEmployees_Title" langTranslation="Empregados Disponíveis" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_btn_ListAvailableEmployees_Fire" langTranslation="Empregado de Fogo" langInternalDesc="" />
   <LangUI langConstant="menuCompanyEmployee_btn_ListAvailableEmployees_GetDriverLicence" langTranslation="Obter permissão para dirigir" langInternalDesc="" />
@@ -119,7 +120,7 @@
   <LangUI langConstant="menuCompanyVehicles_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
   <LangUI langConstant="menuCompanyVehicles_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
   <LangUI langConstant="menuCompanyVehicles_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyVehicles_text_Day" langTranslation="DIA" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_text_Day" langTranslation="Dia" langInternalDesc="" />
   <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_TitleTrucks" langTranslation="Caminhões" langInternalDesc="" />
   <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_TitleTrailer" langTranslation="Reboque" langInternalDesc="" />
   <LangUI langConstant="menuCompanyVehicles_btn_ListTrucksOwn_ChangeTrailer" langTranslation="Mudar Reboque" langInternalDesc="" />
@@ -153,13 +154,14 @@
   <LangUI langConstant="menuCompanyVehicles_btn_WorkshopBrowser" langTranslation="Navegação na Oficina Steam" langInternalDesc="" />
   <LangUI langConstant="menuCompanyVehicles_text_Warning_PlayerNeedsAlwaysAVehicle" langTranslation="Os jogadores precisam sempre de um veículo!" langInternalDesc="" />
   <LangUI langConstant="menuCompanyVehicles_text_Warning_ThereIsAlreadyATruckOrTrailerAtThisPosition" langTranslation="Já existe um caminhão / reboque nesta posição!" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyVehicles_text_Warning_SelectedDriverHasAlreadyATruck" langTranslation="O motorista selecionado já tem um caminhão. Por favor, remova-o de seu caminhão atual primeiro." langInternalDesc="" />
   <LangUI langConstant="menuCompanyFinances_text_Title" langTranslation="Finanças" langInternalDesc="" />
   <LangUI langConstant="menuCompanyFinances_btn_Overview" langTranslation="Visão geral" langInternalDesc="" />
   <LangUI langConstant="menuCompanyFinances_btn_Logistics" langTranslation="Logística" langInternalDesc="" />
   <LangUI langConstant="menuCompanyFinances_btn_Employee" langTranslation="Empregado" langInternalDesc="" />
   <LangUI langConstant="menuCompanyFinances_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
   <LangUI langConstant="menuCompanyFinances_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyFinances_text_Day" langTranslation="DIA" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_Day" langTranslation="Dia" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Game_text_Title" langTranslation="Jogo" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Game_text_Language" langTranslation="Idioma" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Game_text_showTrigger" langTranslation="Mostrar gatilhos" langInternalDesc="" />
@@ -505,7 +507,7 @@
   <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_DescriptionCanNotBeBlank" langTranslation="Descrição não pode estar em branco" langInternalDesc="" />
   <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_PreviewImageNeeded" langTranslation="Você precisa de uma imagem de visualização para Oficina Steam" langInternalDesc="" />
   <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_ThereIsNoWorkshopitemToUpdate" langTranslation="Não há nenhum item na oficina steam para atualizar." langInternalDesc="" />
-  <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_IsNotCurrentSteamUser" langTranslation="Você não é o usuário do Steam que fez o upload deste item de oficina." langInternalDesc="" />
+  <LangUI langConstant="menuSteamWorkshop_Upload_text_ErrorMessage_IsNotCurrentSteamUser" langTranslation="Você não é o usuário Steam que fez o upload deste item de Worksop." langInternalDesc="" />
   <LangUI langConstant="menuQuickTips_text_Title" langTranslation="Dicas rápidas" langInternalDesc="" />
   <LangUI langConstant="menuQuickTips_text_QuickTips" langTranslation="Caminhe até a porta do motorista e clique com o botão esquerdo para entrar no caminhão.&#xD;&#xA;&#xD;&#xA;Para começar, pressione 4 (tecla padrão) várias vezes até que o motor esteja funcionando.&#xD;&#xA;&#xD;&#xA;Coloque o seletor de marcha na posição pressionando t (tecla padrão).&#xD;&#xA;&#xD;&#xA;Caso esteja preso na engrenagem, você está no modo de classificação, volte para D pressionando R (tecla padrão).&#xD;&#xA;&#xD;&#xA;Se você não tiver certeza, verifique a alavanca para baixo à direita do assento do motorista.&#xD;&#xA;&#xD;&#xA;Pressione espaço (chave padrão) para liberar o freio de estacionamento.&#xD;&#xA;&#xD;&#xA;No caso de você bater e rolar, você pode colocar seu caminhão de volta, pressionando F9 (chave padrão).&#xD;&#xA;&#xD;&#xA;Use o retardador com Q (chave padrão) com freqüência. Caso contrário, você perderá muita pressão de ar e os freios travarão.&#xD;&#xA;&#xD;&#xA;Verifique a ligação das teclas no menu de opções para ver todas as funções.&#xD;&#xA;&#xD;&#xA;Todos os interruptores e alavancas podem ser operados clicando com o botão esquerdo e direito sobre eles." langInternalDesc="" />
   <LangUI langConstant="menuQuickTips_btn_Back" langTranslation="Voltar" langInternalDesc="" />
@@ -534,8 +536,8 @@
   <LangMsgBox langConstant="msgboxAcceptAssignment_text_Reputation" langTranslation="Reputação" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAcceptHeadquarterAssignment_text_Caption" langTranslation="Adicionar sede" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAcceptHeadquarterAssignment_text_Message" langTranslation="Adicionar sede à rota?" langInternalDesc="" />
-  <LangMsgBox langConstant="msgboxAcceptHeadquarterAssignment_btn_Yes" langTranslation="Yes" langInternalDesc="" />
-  <LangMsgBox langConstant="msgboxAcceptHeadquarterAssignment_btn_No" langTranslation="No" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptHeadquarterAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptHeadquarterAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAcceptStandaloneTrailerAssignment_text_Caption" langTranslation="Adicionar reboque autônomo" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAcceptStandaloneTrailerAssignment_text_Message" langTranslation="Adicionar reboque Independente para a rota?" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAcceptStandaloneTrailerAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
@@ -551,7 +553,7 @@
   <LangMsgBox langConstant="msgboxAbortHeadquarterAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortHeadquarterAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortStandaloneTrailerAssignment_text_Caption" langTranslation="Remover a posição do reboque" langInternalDesc="" />
-  <LangMsgBox langConstant="msgboxAbortStandaloneTrailerAssignment_text_Message" langTranslation="Remover a posição do trailer autônomo?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortStandaloneTrailerAssignment_text_Message" langTranslation="Remover a posição do reboque autônomo?" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortStandaloneTrailerAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortStandaloneTrailerAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_text_Caption" langTranslation="Resumo da tarefa" langInternalDesc="" />
@@ -568,14 +570,16 @@
   <LangMsgBox langConstant="msgboxAssignmentSummary_text_Delivery" langTranslation="Entrega" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_text_Caption" langTranslation="Documentos de Frete" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_btn_Cancel" langTranslation="Cancel" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_text_SignatureNotMade" langTranslation="Por favor assine os documentos de frete" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_text_AssignmentOverloaded" langTranslation="Caminhão / reboque está sobrecarregado. Por favor, remova uma tarefa da sua rota." langInternalDesc="" />
   <LangMsgBox langConstant="msgboxResetInput_text_Caption" langTranslation="Redefinir entrada" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxResetInput_text_Message" langTranslation="Redefinir entrada?" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxResetInput_text_Yes" langTranslation="Sim" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxResetInput_text_No" langTranslation="Não" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTruck_text_Caption" langTranslation="Comprar Caminhão" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTruck_text_Message" langTranslation="Comprar Caminhão?" langInternalDesc="" />
-  <LangMsgBox langConstant="msgboxBuyTruck_text_DeliverTo" langTranslation="deliver to city" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTruck_text_DeliverTo" langTranslation="entregar para a cidade" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTruck_btn_Yes" langTranslation="Sim" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTruck_btn_No" langTranslation="Não" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTruck_ErrorMessage_PurchaseAgreementMustBeSigned" langTranslation="Contrato de compra deve ser assinado" langInternalDesc="" />
@@ -587,7 +591,7 @@
   <LangMsgBox langConstant="msgboxBuyTrailer_btn_Yes" langTranslation="Sim" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTrailer_btn_No" langTranslation="Não" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTrailer_ErrorMessage_PurchaseAgreementMustBeSigned" langTranslation="Contrato de compra deve ser assinado" langInternalDesc="" />
-  <LangMsgBox langConstant="msgboxBuyTrailer_ErrorMessage_ThereAreObjectsInTrigger" langTranslation="Por favor, afaste seu trailer" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxBuyTrailer_ErrorMessage_ThereAreObjectsInTrigger" langTranslation="Por favor, afaste seu reboque" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxBuyTrailer_btn_ErrorMessage_Accept" langTranslation="Aceitar" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxSwitchTruck_text_Caption" langTranslation="Trocar Caminhão" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxSwitchTruck_text_Message" langTranslation="Trocar Caminhão?" langInternalDesc="" />
@@ -606,6 +610,9 @@
   <LangMsgBox langConstant="msgboxCanNotFireFirstDriver_text_Caption" langTranslation="Não pode despedir o primeiro motorista" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxCanNotFireFirstDriver_text_Message" langTranslation="Você não pode despedir o primeiro motorista!" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxCanNotFireFirstDriver_btn_OK" langTranslation="OK" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxCanNotFireDriverBecauseOfAssociatedTruck_text_Caption" langTranslation="Não pode disparar motorista" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxCanNotFireDriverBecauseOfAssociatedTruck_text_Message" langTranslation="Por favor, remova o caminhão associado do empregado!" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxCanNotFireDriverBecauseOfAssociatedTruck_btn_OK" langTranslation="OK" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxGetDriverLicence_text_Caption" langTranslation="Adquirir licença de motorista" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxGetDriverLicence_text_Message" langTranslation="Adquirir licença de motorista?" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxGetDriverLicence_btn_Yes" langTranslation="Sim" langInternalDesc="" />
@@ -1144,7 +1151,7 @@
   <LangTut langConstant="tut_Part9_Action1" langTranslation="" langInternalDesc="" />
   <LangTut langConstant="tut_Part10" langTranslation="Mude para Dirigir ou Inverter" langInternalDesc="" />
   <LangTut langConstant="tut_Part10_Action0" langTranslation="Subir Marcha" langInternalDesc="" />
-  <LangTut langConstant="tut_Part10_Action1" langTranslation="Reduzir Marcha" langInternalDesc="" />
+  <LangTut langConstant="tut_Part10_Action1" langTranslation="Descer Marcha" langInternalDesc="" />
   <LangTut langConstant="tut_Part11" langTranslation="tut_Part11" langInternalDesc="" />
   <LangTut langConstant="tut_Part11_Action0" langTranslation="tut_Part11_Action0" langInternalDesc="" />
   <LangTut langConstant="tut_Part11_Action1" langTranslation="tut_Part11_Action1" langInternalDesc="" />
