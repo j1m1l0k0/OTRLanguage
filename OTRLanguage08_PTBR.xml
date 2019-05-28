@@ -95,7 +95,7 @@
   <LangUI langConstant="menuCompanyLogistics_btn_AvailableAssignment_Next" langTranslation="Próximo" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_AvailableAssignment_Title" langTranslation="ATRIBUIÇÕES DISPONÍVEIS" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_HeadquarterAssignment_Title" langTranslation="DEFINIR POSIÇÃO DA SEDE" langInternalDesc="" />
-  <LangUI langConstant="menuCompanyLogistics_text_StandaloneTrailerAssignment_Title" langTranslation="POSIÇÃO DE REBOQUE ESTÁ SOZINHO" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_StandaloneTrailerAssignment_Title" langTranslation="POSIÇÃO DE REBOQUE PADRÃO" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_Warning_SelectedDriverHasNoTruck" langTranslation="Motorista selecionado não tem caminhão" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_Warning_CompanyHasNoAvailalableAssignments" langTranslation="A Empresa não tem atribuições disponíveis" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_Warning_SemiTruckSelectedButNoTrailer" langTranslation="Caminhão semi selecionado, mas nenhum trailer" langInternalDesc="" />
