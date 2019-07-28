@@ -3,6 +3,10 @@
   <LangUI langConstant="description" langTranslation="Português Brasileiro" langInternalDesc="" />
   <LangUI langConstant="name" langTranslation="Português Brasileiro" langInternalDesc="" />
   <LangUI langConstant="flagTexture" langTranslation="flag_PTBR.jpg" langInternalDesc="" />
+  <LangUI langConstant="tachograph_text_NoCard" langTranslation="nenhum cartão" langInternalDesc="" />
+  <LangUI langConstant="tachograph_text_Mode_TravelTime" langTranslation="Tempo de viagem" langInternalDesc="" />
+  <LangUI langConstant="tachograph_text_Mode_RestTime" langTranslation="Tempo de descanso" langInternalDesc="" />
+  <LangUI langConstant="blackBoard_text_Info" langTranslation="período de descanso termina em" langInternalDesc="" />
   <LangUI langConstant="carComputer_text_nothing" langTranslation="" langInternalDesc="" />
   <LangUI langConstant="carComputer_text_switchToNeutral" langTranslation="mudar para Neutro" langInternalDesc="" />
   <LangUI langConstant="menuMain_btn_NewGame" langTranslation="Novo Jogo" langInternalDesc="" />
@@ -96,6 +100,7 @@
   <LangUI langConstant="menuCompanyLogistics_text_AvailableAssignment_Title" langTranslation="ATRIBUIÇÕES DISPONÍVEIS" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_HeadquarterAssignment_Title" langTranslation="DEFINIR POSIÇÃO DA SEDE" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_StandaloneTrailerAssignment_Title" langTranslation="POSIÇÃO DE REBOQUE PADRÃO" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyLogistics_text_TruckAssignment_Title" langTranslation="TRUCK POSITION" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_Warning_SelectedDriverHasNoTruck" langTranslation="Motorista selecionado não tem caminhão" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_Warning_CompanyHasNoAvailalableAssignments" langTranslation="A Empresa não tem atribuições disponíveis" langInternalDesc="" />
   <LangUI langConstant="menuCompanyLogistics_text_Warning_SemiTruckSelectedButNoTrailer" langTranslation="Caminhão semi selecionado, mas nenhum trailer" langInternalDesc="" />
@@ -162,6 +167,22 @@
   <LangUI langConstant="menuCompanyFinances_btn_Vehicles" langTranslation="Veículos" langInternalDesc="" />
   <LangUI langConstant="menuCompanyFinances_btn_Finances" langTranslation="Finanças" langInternalDesc="" />
   <LangUI langConstant="menuCompanyFinances_text_Day" langTranslation="Dia" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_btn_DiagramMonth_Previous" langTranslation="Anterior" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_btn_DiagramMonth_Next" langTranslation="Próximo" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_seedCapital" langTranslation="SEED CAPITAL" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_earnings" langTranslation="EARNINGS" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_expenses" langTranslation="EXPENSES" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_salarys" langTranslation="Salários" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_investments" langTranslation="Investimentos" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_fuel" langTranslation="Combustível" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_fines" langTranslation="Finais" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_revenue" langTranslation="RECEITA" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_inventory" langTranslation="INVENTÁRIO" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_buildings" langTranslation="Edifícios" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_trucks" langTranslation="Caminhões" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_trailer" langTranslation="Reboque" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_total" langTranslation="TOTAL" langInternalDesc="" />
+  <LangUI langConstant="menuCompanyFinances_text_companyValue" langTranslation="VALOR DA EMPRESA" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Game_text_Title" langTranslation="Jogo" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Game_text_Language" langTranslation="Idioma" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Game_text_showTrigger" langTranslation="Mostrar gatilhos" langInternalDesc="" />
@@ -225,6 +246,9 @@
   <LangUI langConstant="menuOptions_Input_text_TruckWiperUp" langTranslation="Limpador de para-brisa mais rápido" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Input_text_TruckWiperDown" langTranslation="Limpador de para-brisa mais lento (desligar)" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Input_text_TruckCruiseControl" langTranslation="Controle de cruzeiro" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Tachograph_CardInOut" langTranslation="Cartão de Tacógrafo Entrada / Saída" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Tachograph_ChangeMode" langTranslation="Modo de Mudança do Tacógrafo" langInternalDesc="" />
+  <LangUI langConstant="menuOptions_Input_text_Tachograph_AcceptMode" langTranslation="Aceitar tacógrafo" langInternalDesc="" />
   <LangUI langConstant="menuOptions_Input_text_TruckDriverMoveForward" langTranslation="Caminhar para frente" langInternalDesc="Motorista caminha para frente" />
   <LangUI langConstant="menuOptions_Input_text_TruckDriverMoveBackward" langTranslation="Caminhar para trás" langInternalDesc="Motorista caminha para trás" />
   <LangUI langConstant="menuOptions_Input_text_TruckDriverStepLeft" langTranslation="Caminhar para esquerda" langInternalDesc="" />
@@ -513,6 +537,7 @@
   <LangUI langConstant="menuQuickTips_btn_Back" langTranslation="Voltar" langInternalDesc="" />
   <LangUI langConstant="Manager_LevelLoading_loadingInfo" langTranslation="Carregando" langInternalDesc="" />
   <LangUI langConstant="OnScreenNavi_EmployeeHasFinishedHisRoute" langTranslation="O funcionário terminou sua rota." langInternalDesc="" />
+  <LangUI langConstant="OnScreenNavi_MonthlySalaryPaid" langTranslation="Salário Mensal Pago" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxQuitApplication_text_Caption" langTranslation="Sair do jogo" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxQuitApplication_text_Message" langTranslation="Você realmente deseja sair?" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxQuitApplication_btn_Accept" langTranslation="Aceitar" langInternalDesc="" />
@@ -542,6 +567,10 @@
   <LangMsgBox langConstant="msgboxAcceptStandaloneTrailerAssignment_text_Message" langTranslation="Adicionar reboque Independente para a rota?" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAcceptStandaloneTrailerAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAcceptStandaloneTrailerAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptTruckAssignment_text_Caption" langTranslation="Adicionar caminhão" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptTruckAssignment_text_Message" langTranslation="Adicionar caminhão à rota?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptTruckAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAcceptTruckAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortAssignment_text_Caption" langTranslation="Cancelar tarefa" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortAssignment_text_Message" langTranslation="Cancelar tarefa?" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
@@ -556,6 +585,10 @@
   <LangMsgBox langConstant="msgboxAbortStandaloneTrailerAssignment_text_Message" langTranslation="Remover a posição do reboque autônomo?" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortStandaloneTrailerAssignment_btn_Yes" langTranslation="Sim" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAbortStandaloneTrailerAssignment_btn_No" langTranslation="Não" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortTruckAssignment_text_Caption" langTranslation="Remova a posição do caminhão" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortTruckAssignment_text_Message" langTranslation="Remover a posição do caminhão?" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortTruckAssignment_btn_Yes" langTranslation="SIM" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAbortTruckAssignment_btn_No" langTranslation="NÃO" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_text_Caption" langTranslation="Resumo da tarefa" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_btn_OK" langTranslation="OK" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_text_Distance" langTranslation="Distância" langInternalDesc="" />
@@ -570,7 +603,7 @@
   <LangMsgBox langConstant="msgboxAssignmentSummary_text_Delivery" langTranslation="Entrega" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_text_Caption" langTranslation="Documentos de Frete" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_btn_OK" langTranslation="OK" langInternalDesc="" />
-  <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_btn_Cancel" langTranslation="Cancel" langInternalDesc="" />
+  <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_btn_Cancel" langTranslation="Cancelar" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_text_SignatureNotMade" langTranslation="Por favor assine os documentos de frete" langInternalDesc="" />
   <LangMsgBox langConstant="msgboxAssignmentSummary_FreightDocument_text_AssignmentOverloaded" langTranslation="Caminhão / reboque está sobrecarregado. Por favor, remova uma tarefa da sua rota." langInternalDesc="" />
   <LangMsgBox langConstant="msgboxResetInput_text_Caption" langTranslation="Redefinir entrada" langInternalDesc="" />
